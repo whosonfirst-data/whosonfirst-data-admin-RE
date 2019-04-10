@@ -1,0 +1,76 @@
+{
+  "id": 1276690417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.44164,-20.88024,55.44164,-20.88024",
+    "geom:latitude":-20.88024,
+    "geom:longitude":55.44164,
+    "gn:admin1_code":"RE",
+    "gn:admin2_code":"974.0",
+    "gn:admin3_code":"9741.0",
+    "gn:admin4_code":"97411.0",
+    "gn:asciiname":"Petite Ile",
+    "gn:country_code":"RE",
+    "gn:dem":168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":935697,
+    "gn:latitude":-20.88024,
+    "gn:longitude":55.44164,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"Petite \u00cele",
+    "gn:population":0,
+    "gn:timezone":"Indian/Reunion",
+    "iso:country":"RE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Petite \u00cele"
+    ],
+    "name:und_x_variant":[
+        "La Petite \u00cele"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":935697
+    },
+    "wof:country":"RE",
+    "wof:geomhash":"a41fe9da8541474142df1a06ef61d88e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1276690417,
+            "region_id":85671199
+        }
+    ],
+    "wof:id":1276690417,
+    "wof:lastmodified":1537683264,
+    "wof:name":"Petite Ile",
+    "wof:parent_id":85671199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-re",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.44164,
+    -20.88024,
+    55.44164,
+    -20.88024
+],
+  "geometry": {"coordinates":[55.44164,-20.88024],"type":"Point"}
+}

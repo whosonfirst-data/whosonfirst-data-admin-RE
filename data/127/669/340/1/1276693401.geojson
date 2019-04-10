@@ -1,0 +1,76 @@
+{
+  "id": 1276693401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.52836,-21.31719,55.52836,-21.31719",
+    "geom:latitude":-21.31719,
+    "geom:longitude":55.52836,
+    "gn:admin1_code":"RE",
+    "gn:admin2_code":"974.0",
+    "gn:admin3_code":"9742.0",
+    "gn:admin4_code":"97416.0",
+    "gn:asciiname":"Berive les Bas",
+    "gn:country_code":"RE",
+    "gn:dem":469,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":936104,
+    "gn:latitude":-21.31719,
+    "gn:longitude":55.52836,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"B\u00e9rive les Bas",
+    "gn:population":0,
+    "gn:timezone":"Indian/Reunion",
+    "iso:country":"RE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "B\u00e9rive les Bas"
+    ],
+    "name:und_x_variant":[
+        "B\u00e9rive-les Bas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":936104
+    },
+    "wof:country":"RE",
+    "wof:geomhash":"f6458db65f65dff7b5ac4d80ec0b7d07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1276693401,
+            "region_id":85671199
+        }
+    ],
+    "wof:id":1276693401,
+    "wof:lastmodified":1537683269,
+    "wof:name":"Berive les Bas",
+    "wof:parent_id":85671199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-re",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.52836,
+    -21.31719,
+    55.52836,
+    -21.31719
+],
+  "geometry": {"coordinates":[55.52836,-21.31719],"type":"Point"}
+}

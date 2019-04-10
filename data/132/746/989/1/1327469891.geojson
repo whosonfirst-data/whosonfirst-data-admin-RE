@@ -1,0 +1,70 @@
+{
+  "id": 1327469891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.63932,-21.37903,55.63932,-21.37903",
+    "geom:latitude":-21.37903,
+    "geom:longitude":55.63932,
+    "gn:admin1_code":"RE",
+    "gn:admin2_code":"974.0",
+    "gn:admin3_code":"9742.0",
+    "gn:admin4_code":"97412.0",
+    "gn:asciiname":"Bois Noirs",
+    "gn:country_code":"RE",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":935183,
+    "gn:latitude":-21.37903,
+    "gn:longitude":55.63932,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"Bois Noirs",
+    "gn:population":0,
+    "gn:timezone":"Indian/Reunion",
+    "iso:country":"RE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Bois Noirs"
+    ],
+    "name:und_x_variant":[
+        "Sous les Bois Noirs"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":935183
+    },
+    "wof:country":"RE",
+    "wof:geomhash":"1f93d01f43fdbc334d1f5530ea29d102",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1327469891,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1327469891,
+    "wof:lastmodified":1537683256,
+    "wof:name":"Bois Noirs",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-re",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.63932,
+    -21.37903,
+    55.63932,
+    -21.37903
+],
+  "geometry": {"coordinates":[55.63932,-21.37903],"type":"Point"}
+}

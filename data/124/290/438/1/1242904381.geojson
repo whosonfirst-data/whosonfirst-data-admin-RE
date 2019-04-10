@@ -1,0 +1,73 @@
+{
+  "id": 1242904381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.47301,-21.02876,55.47301,-21.02876",
+    "geom:latitude":-21.02876,
+    "geom:longitude":55.47301,
+    "gn:admin1_code":"RE",
+    "gn:admin2_code":"974.0",
+    "gn:admin3_code":"9743.0",
+    "gn:admin4_code":"97421.0",
+    "gn:asciiname":"Grand Ilet",
+    "gn:country_code":"RE",
+    "gn:dem":1239,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":935814,
+    "gn:latitude":-21.02876,
+    "gn:longitude":55.47301,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"Grand \u00celet",
+    "gn:population":0,
+    "gn:timezone":"Indian/Reunion",
+    "iso:country":"RE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Grand \u00celet"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":935814
+    },
+    "wof:country":"RE",
+    "wof:geomhash":"8980668d92a83db2cc83c027a50e5eb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1242904381,
+            "region_id":85671199
+        }
+    ],
+    "wof:id":1242904381,
+    "wof:lastmodified":1537683266,
+    "wof:name":"Grand Ilet",
+    "wof:parent_id":85671199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-re",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.47301,
+    -21.02876,
+    55.47301,
+    -21.02876
+],
+  "geometry": {"coordinates":[55.47301,-21.02876],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1242909717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.33333,-21.13333,55.33333,-21.13333",
+    "geom:latitude":-21.13333,
+    "geom:longitude":55.33333,
+    "gn:admin1_code":"RE",
+    "gn:admin2_code":"974.0",
+    "gn:admin3_code":"9744.0",
+    "gn:admin4_code":"97413.0",
+    "gn:asciiname":"Etang-les Hauts",
+    "gn:cc2":"RE",
+    "gn:country_code":"RE",
+    "gn:dem":1235,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":935904,
+    "gn:latitude":-21.13333,
+    "gn:longitude":55.33333,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"\u00c9tang-les Hauts",
+    "gn:population":0,
+    "gn:timezone":"Indian/Reunion",
+    "iso:country":"RE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Etanq les Hauts",
+        "\u00c9tang-les Hauts"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":935904
+    },
+    "wof:country":"RE",
+    "wof:geomhash":"c06d34fe174ba1ee5392c1f829229939",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1242909717,
+            "region_id":85671199
+        }
+    ],
+    "wof:id":1242909717,
+    "wof:lastmodified":1537683267,
+    "wof:name":"Etang-les Hauts",
+    "wof:parent_id":85671199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-re",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.33333,
+    -21.13333,
+    55.33333,
+    -21.13333
+],
+  "geometry": {"coordinates":[55.33333,-21.13333],"type":"Point"}
+}

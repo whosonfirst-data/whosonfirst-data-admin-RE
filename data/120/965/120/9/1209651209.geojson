@@ -1,0 +1,67 @@
+{
+  "id": 1209651209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.43664,-21.28396,55.43664,-21.28396",
+    "geom:latitude":-21.28396,
+    "geom:longitude":55.43664,
+    "gn:admin1_code":"RE",
+    "gn:admin2_code":"974.0",
+    "gn:admin3_code":"9742.0",
+    "gn:admin4_code":"97414.0",
+    "gn:asciiname":"Les Cocos",
+    "gn:country_code":"RE",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":935601,
+    "gn:latitude":-21.28396,
+    "gn:longitude":55.43664,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"Les Cocos",
+    "gn:population":0,
+    "gn:timezone":"Indian/Reunion",
+    "iso:country":"RE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Les Cocos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85671199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":935601
+    },
+    "wof:country":"RE",
+    "wof:geomhash":"983c6260922475319db408ce28783c6e",
+    "wof:hierarchy":[
+        {
+            "locality_id":1209651209,
+            "region_id":85671199
+        }
+    ],
+    "wof:id":1209651209,
+    "wof:lastmodified":1537683261,
+    "wof:name":"Les Cocos",
+    "wof:parent_id":85671199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-re",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.43664,
+    -21.28396,
+    55.43664,
+    -21.28396
+],
+  "geometry": {"coordinates":[55.43664,-21.28396],"type":"Point"}
+}

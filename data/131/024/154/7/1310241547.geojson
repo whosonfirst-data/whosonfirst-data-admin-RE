@@ -1,0 +1,73 @@
+{
+  "id": 1310241547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.42361,-21.02055,55.42361,-21.02055",
+    "geom:latitude":-21.02055,
+    "geom:longitude":55.42361,
+    "gn:admin1_code":"RE",
+    "gn:admin2_code":"974.0",
+    "gn:admin3_code":"9744.0",
+    "gn:admin4_code":"97408.0",
+    "gn:asciiname":"Aurere",
+    "gn:country_code":"RE",
+    "gn:dem":629,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":936169,
+    "gn:latitude":-21.02055,
+    "gn:longitude":55.42361,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"Aur\u00e8re",
+    "gn:population":0,
+    "gn:timezone":"Indian/Reunion",
+    "iso:country":"RE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Aur\u00e8re"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":936169
+    },
+    "wof:country":"RE",
+    "wof:geomhash":"46cb1a7ba70fdd40a6fb82c1b30011c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1310241547,
+            "region_id":85671199
+        }
+    ],
+    "wof:id":1310241547,
+    "wof:lastmodified":1537683270,
+    "wof:name":"Aurere",
+    "wof:parent_id":85671199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-re",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.42361,
+    -21.02055,
+    55.42361,
+    -21.02055
+],
+  "geometry": {"coordinates":[55.42361,-21.02055],"type":"Point"}
+}

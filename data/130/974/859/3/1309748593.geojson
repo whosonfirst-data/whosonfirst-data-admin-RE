@@ -1,0 +1,70 @@
+{
+  "id": 1309748593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.59779,-20.90802,55.59779,-20.90802",
+    "geom:latitude":-20.90802,
+    "geom:longitude":55.59779,
+    "gn:admin1_code":"RE",
+    "gn:admin2_code":"974.0",
+    "gn:admin3_code":"9741.0",
+    "gn:admin4_code":"97420.0",
+    "gn:asciiname":"Les Trois Freres",
+    "gn:country_code":"RE",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":935586,
+    "gn:latitude":-20.90802,
+    "gn:longitude":55.59779,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Les Trois Fr\u00e8res",
+    "gn:population":0,
+    "gn:timezone":"Indian/Reunion",
+    "iso:country":"RE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":935586
+    },
+    "wof:country":"RE",
+    "wof:geomhash":"d69506363d0b3d4207001d38ae6d69c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1309748593,
+            "region_id":85671199
+        }
+    ],
+    "wof:id":1309748593,
+    "wof:lastmodified":1537012836,
+    "wof:name":"Les Trois Freres",
+    "wof:parent_id":85671199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-re",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.59779,
+    -20.90802,
+    55.59779,
+    -20.90802
+],
+  "geometry": {"coordinates":[55.59779,-20.90802],"type":"Point"}
+}

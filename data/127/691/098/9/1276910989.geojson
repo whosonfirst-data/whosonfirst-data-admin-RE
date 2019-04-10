@@ -1,0 +1,70 @@
+{
+  "id": 1276910989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.46667,-20.98333,55.46667,-20.98333",
+    "geom:latitude":-20.98333,
+    "geom:longitude":55.46667,
+    "gn:admin1_code":"RE",
+    "gn:admin2_code":"974.0",
+    "gn:admin3_code":"9741.0",
+    "gn:admin4_code":"97411.0",
+    "gn:asciiname":"Ilet Flamand",
+    "gn:country_code":"RE",
+    "gn:dem":1653,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":935764,
+    "gn:latitude":-20.98333,
+    "gn:longitude":55.46667,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"\u00celet Flamand",
+    "gn:population":0,
+    "gn:timezone":"Indian/Reunion",
+    "iso:country":"RE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":935764
+    },
+    "wof:country":"RE",
+    "wof:geomhash":"f19e78c10ad704bc877b98ab8a272bbf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1276910989,
+            "region_id":85671199
+        }
+    ],
+    "wof:id":1276910989,
+    "wof:lastmodified":1536998706,
+    "wof:name":"Ilet Flamand",
+    "wof:parent_id":85671199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-re",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.46666999999999,
+    -20.98333,
+    55.46666999999999,
+    -20.98333
+],
+  "geometry": {"coordinates":[55.46666999999999,-20.98333],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1193052179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.39749,-21.29315,55.39749,-21.29315",
+    "geom:latitude":-21.29315,
+    "geom:longitude":55.39749,
+    "gn:admin1_code":"RE",
+    "gn:admin2_code":"974.0",
+    "gn:admin3_code":"9742.0",
+    "gn:admin4_code":"97414.0",
+    "gn:asciiname":"Bel-Air",
+    "gn:country_code":"RE",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":936127,
+    "gn:latitude":-21.29315,
+    "gn:longitude":55.39749,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"Bel-Air",
+    "gn:population":0,
+    "gn:timezone":"Indian/Reunion",
+    "iso:country":"RE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Bel-Air"
+    ],
+    "name:und_x_variant":[
+        "Bel Air"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":936127
+    },
+    "wof:country":"RE",
+    "wof:geomhash":"f6a2b93251348f05abddca1d7f52fe3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1193052179,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1193052179,
+    "wof:lastmodified":1537683269,
+    "wof:name":"Bel-Air",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-re",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.39749000000001,
+    -21.29315,
+    55.39749000000001,
+    -21.29315
+],
+  "geometry": {"coordinates":[55.39749000000001,-21.29315],"type":"Point"}
+}

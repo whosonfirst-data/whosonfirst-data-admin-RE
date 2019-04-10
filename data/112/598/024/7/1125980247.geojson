@@ -1,0 +1,78 @@
+{
+  "id": 1125980247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.31513,-21.21962,55.31513,-21.21962",
+    "geom:latitude":-21.21962,
+    "geom:longitude":55.31513,
+    "gn:gn_country":"RE",
+    "gn:gn_fcode":"PPLL",
+    "gn:gn_pop":29278,
+    "gn:population":29278,
+    "iso:country":"RE",
+    "lbl:latitude":-21.21962,
+    "lbl:longitude":55.31513,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"RE",
+    "qs_pg:gn_country":"RE",
+    "qs_pg:gn_fcode":"PPLL",
+    "qs_pg:gn_id":7932385,
+    "qs_pg:gn_pop":29278,
+    "qs_pg:name":"Piton Saint-Leu",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":745771,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7932385,
+        "qs_pg:id":745771
+    },
+    "wof:country":"RE",
+    "wof:created":1497298524,
+    "wof:geomhash":"652f8e227809a6c534cb0c24f4782d16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1125980247,
+            "region_id":85671199
+        }
+    ],
+    "wof:id":1125980247,
+    "wof:lastmodified":1531422081,
+    "wof:name":"Piton Saint-Leu",
+    "wof:parent_id":85671199,
+    "wof:placetype":"locality",
+    "wof:population":29278,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-re",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.31513,
+    -21.21962,
+    55.31513,
+    -21.21962
+],
+  "geometry": {"coordinates":[55.31513,-21.21962],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1343595311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.60078,-21.37599,55.60078,-21.37599",
+    "geom:latitude":-21.37599,
+    "geom:longitude":55.60078,
+    "gn:admin1_code":"RE",
+    "gn:admin2_code":"974.0",
+    "gn:admin3_code":"9742.0",
+    "gn:admin4_code":"97405.0",
+    "gn:asciiname":"Manapany",
+    "gn:country_code":"RE",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":935537,
+    "gn:latitude":-21.37599,
+    "gn:longitude":55.60078,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"Manapany",
+    "gn:population":0,
+    "gn:timezone":"Indian/Reunion",
+    "iso:country":"RE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":935537,
+        "wk:page":"Manapany"
+    },
+    "wof:country":"RE",
+    "wof:geomhash":"c953496bcc7b2d965414bfd24da8b2a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1343595311,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1343595311,
+    "wof:lastmodified":1537571961,
+    "wof:name":"Manapany",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-re",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.60078000000001,
+    -21.37599,
+    55.60078000000001,
+    -21.37599
+],
+  "geometry": {"coordinates":[55.60078000000001,-21.37599],"type":"Point"}
+}

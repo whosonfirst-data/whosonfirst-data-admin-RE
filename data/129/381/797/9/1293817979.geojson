@@ -1,0 +1,77 @@
+{
+  "id": 1293817979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.79105,-21.34979,55.79105,-21.34979",
+    "geom:latitude":-21.34979,
+    "geom:longitude":55.79105,
+    "gn:admin1_code":"RE",
+    "gn:admin2_code":"974.0",
+    "gn:admin3_code":"9742.0",
+    "gn:admin4_code":"97417.0",
+    "gn:asciiname":"Ravine Ango",
+    "gn:country_code":"RE",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":935348,
+    "gn:latitude":-21.34979,
+    "gn:longitude":55.79105,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"Ravine Ango",
+    "gn:population":0,
+    "gn:timezone":"Indian/Reunion",
+    "iso:country":"RE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Ravine Ango"
+    ],
+    "name:und_x_variant":[
+        "Ravine d\u2019Ango"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":935348,
+        "wk:page":"Ravine_d%27Ango"
+    },
+    "wof:country":"RE",
+    "wof:geomhash":"c073d9b9d9f2d7b7c9d76549efdb880f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1293817979,
+            "region_id":85671199
+        }
+    ],
+    "wof:id":1293817979,
+    "wof:lastmodified":1537683258,
+    "wof:name":"Ravine Ango",
+    "wof:parent_id":85671199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-re",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.79105,
+    -21.34979,
+    55.79105,
+    -21.34979
+],
+  "geometry": {"coordinates":[55.79105,-21.34979],"type":"Point"}
+}

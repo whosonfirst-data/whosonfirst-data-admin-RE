@@ -1,0 +1,70 @@
+{
+  "id": 1276803723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.62308,-21.37045,55.62308,-21.37045",
+    "geom:latitude":-21.37045,
+    "geom:longitude":55.62308,
+    "gn:admin1_code":"RE",
+    "gn:admin2_code":"974.0",
+    "gn:admin3_code":"9742.0",
+    "gn:admin4_code":"97412.0",
+    "gn:asciiname":"Jean Petit les Bas",
+    "gn:country_code":"RE",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":935742,
+    "gn:latitude":-21.37045,
+    "gn:longitude":55.62308,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"Jean Petit les Bas",
+    "gn:population":0,
+    "gn:timezone":"Indian/Reunion",
+    "iso:country":"RE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Jean Petit les Bas"
+    ],
+    "name:und_x_variant":[
+        "Jean Petit-les Bas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":935742
+    },
+    "wof:country":"RE",
+    "wof:geomhash":"2aa61e5fc006bfe67ec5a7524759e3dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1276803723,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1276803723,
+    "wof:lastmodified":1537683265,
+    "wof:name":"Jean Petit les Bas",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-re",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.62308,
+    -21.37045,
+    55.62308,
+    -21.37045
+],
+  "geometry": {"coordinates":[55.62308,-21.37045],"type":"Point"}
+}

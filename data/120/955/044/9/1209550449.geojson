@@ -1,0 +1,67 @@
+{
+  "id": 1209550449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.26837,-21.03516,55.26837,-21.03516",
+    "geom:latitude":-21.03516,
+    "geom:longitude":55.26837,
+    "gn:admin1_code":"RE",
+    "gn:admin2_code":"974.0",
+    "gn:admin3_code":"9744.0",
+    "gn:admin4_code":"97415.0",
+    "gn:asciiname":"Fleurimont",
+    "gn:country_code":"RE",
+    "gn:dem":318,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":935890,
+    "gn:latitude":-21.03516,
+    "gn:longitude":55.26837,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"Fleurimont",
+    "gn:population":0,
+    "gn:timezone":"Indian/Reunion",
+    "iso:country":"RE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Fleurimont"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85671199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":935890
+    },
+    "wof:country":"RE",
+    "wof:geomhash":"0b66f5b6b9700c9255febd95fdbedf55",
+    "wof:hierarchy":[
+        {
+            "locality_id":1209550449,
+            "region_id":85671199
+        }
+    ],
+    "wof:id":1209550449,
+    "wof:lastmodified":1537683267,
+    "wof:name":"Fleurimont",
+    "wof:parent_id":85671199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-re",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.26837,
+    -21.03516,
+    55.26837,
+    -21.03516
+],
+  "geometry": {"coordinates":[55.26837,-21.03516],"type":"Point"}
+}

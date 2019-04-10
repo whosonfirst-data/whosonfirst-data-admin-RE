@@ -1,0 +1,70 @@
+{
+  "id": 1226572429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.51844,-20.8885,55.51844,-20.8885",
+    "geom:latitude":-20.8885,
+    "geom:longitude":55.51844,
+    "gn:admin1_code":"RE",
+    "gn:admin2_code":"974.0",
+    "gn:admin3_code":"9741.0",
+    "gn:admin4_code":"97418.0",
+    "gn:asciiname":"Marepine",
+    "gn:country_code":"RE",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":935511,
+    "gn:latitude":-20.8885,
+    "gn:longitude":55.51844,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Marepine",
+    "gn:population":0,
+    "gn:timezone":"Indian/Reunion",
+    "iso:country":"RE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":935511
+    },
+    "wof:country":"RE",
+    "wof:geomhash":"c38fa822a8f6ad4a818ac0144bdfcadf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1226572429,
+            "region_id":85671199
+        }
+    ],
+    "wof:id":1226572429,
+    "wof:lastmodified":1536960635,
+    "wof:name":"Marepine",
+    "wof:parent_id":85671199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-re",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.51844000000001,
+    -20.8885,
+    55.51844000000001,
+    -20.8885
+],
+  "geometry": {"coordinates":[55.51844000000001,-20.8885],"type":"Point"}
+}

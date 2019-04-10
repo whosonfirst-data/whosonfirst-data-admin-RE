@@ -1,0 +1,71 @@
+{
+  "id": 1209646757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.56522,-20.89478,55.56522,-20.89478",
+    "geom:latitude":-20.89478,
+    "geom:longitude":55.56522,
+    "gn:admin1_code":"RE",
+    "gn:admin2_code":"974.0",
+    "gn:admin3_code":"9741.0",
+    "gn:admin4_code":"97418.0",
+    "gn:asciiname":"La Convenance",
+    "gn:country_code":"RE",
+    "gn:dem":123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":935956,
+    "gn:latitude":-20.89478,
+    "gn:longitude":55.56522,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"La Convenance",
+    "gn:population":0,
+    "gn:timezone":"Indian/Reunion",
+    "iso:country":"RE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "La Convenance"
+    ],
+    "name:und_x_variant":[
+        "Convenance Ancienne Usine",
+        "Convenance"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85671199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":935956
+    },
+    "wof:country":"RE",
+    "wof:geomhash":"0d05090b13ec3e92591b47997f85a244",
+    "wof:hierarchy":[
+        {
+            "locality_id":1209646757,
+            "region_id":85671199
+        }
+    ],
+    "wof:id":1209646757,
+    "wof:lastmodified":1537683267,
+    "wof:name":"La Convenance",
+    "wof:parent_id":85671199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-re",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.56522,
+    -20.89478,
+    55.56522,
+    -20.89478
+],
+  "geometry": {"coordinates":[55.56522,-20.89478],"type":"Point"}
+}

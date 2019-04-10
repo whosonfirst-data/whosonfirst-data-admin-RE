@@ -1,0 +1,70 @@
+{
+  "id": 1310531935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.51126,-21.35101,55.51126,-21.35101",
+    "geom:latitude":-21.35101,
+    "geom:longitude":55.51126,
+    "gn:admin1_code":"RE",
+    "gn:admin2_code":"974.0",
+    "gn:admin3_code":"9742.0",
+    "gn:admin4_code":"97416.0",
+    "gn:asciiname":"La Cafrine",
+    "gn:country_code":"RE",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":936029,
+    "gn:latitude":-21.35101,
+    "gn:longitude":55.51126,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"La Cafrine",
+    "gn:population":0,
+    "gn:timezone":"Indian/Reunion",
+    "iso:country":"RE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "La Cafrine"
+    ],
+    "name:und_x_variant":[
+        "Cafrine"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":936029
+    },
+    "wof:country":"RE",
+    "wof:geomhash":"e63501eb64e45e5e5573af291ed2d9b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1310531935,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1310531935,
+    "wof:lastmodified":1537683268,
+    "wof:name":"La Cafrine",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-re",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.51126,
+    -21.35101,
+    55.51126,
+    -21.35101
+],
+  "geometry": {"coordinates":[55.51126,-21.35101],"type":"Point"}
+}

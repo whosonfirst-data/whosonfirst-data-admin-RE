@@ -1,0 +1,70 @@
+{
+  "id": 1260214621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.51823,-21.1983,55.51823,-21.1983",
+    "geom:latitude":-21.1983,
+    "geom:longitude":55.51823,
+    "gn:admin1_code":"RE",
+    "gn:admin2_code":"974.0",
+    "gn:admin3_code":"9742.0",
+    "gn:admin4_code":"97422.0",
+    "gn:asciiname":"Ilet Techer",
+    "gn:country_code":"RE",
+    "gn:dem":835,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":935757,
+    "gn:latitude":-21.1983,
+    "gn:longitude":55.51823,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"\u00celet Techer",
+    "gn:population":0,
+    "gn:timezone":"Indian/Reunion",
+    "iso:country":"RE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":935757
+    },
+    "wof:country":"RE",
+    "wof:geomhash":"4ee9c8b802a2a545b86f9cffc025b431",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1260214621,
+            "region_id":85671199
+        }
+    ],
+    "wof:id":1260214621,
+    "wof:lastmodified":1536805334,
+    "wof:name":"Ilet Techer",
+    "wof:parent_id":85671199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-re",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.51823,
+    -21.1983,
+    55.51823,
+    -21.1983
+],
+  "geometry": {"coordinates":[55.51823,-21.1983],"type":"Point"}
+}

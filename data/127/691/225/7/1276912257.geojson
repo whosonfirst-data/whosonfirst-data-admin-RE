@@ -1,0 +1,70 @@
+{
+  "id": 1276912257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.45,-21.16667,55.45,-21.16667",
+    "geom:latitude":-21.16667,
+    "geom:longitude":55.45,
+    "gn:admin1_code":"RE",
+    "gn:admin2_code":"974.0",
+    "gn:admin3_code":"9742.0",
+    "gn:admin4_code":"97424.0",
+    "gn:asciiname":"Ravine Martin",
+    "gn:country_code":"RE",
+    "gn:dem":738,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":935330,
+    "gn:latitude":-21.16667,
+    "gn:longitude":55.45,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ravine Martin",
+    "gn:population":0,
+    "gn:timezone":"Indian/Reunion",
+    "iso:country":"RE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":935330
+    },
+    "wof:country":"RE",
+    "wof:geomhash":"24be0b717e4e17652e16cb6c9085af88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1276912257,
+            "region_id":85671199
+        }
+    ],
+    "wof:id":1276912257,
+    "wof:lastmodified":1536996902,
+    "wof:name":"Ravine Martin",
+    "wof:parent_id":85671199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-re",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.45,
+    -21.16667,
+    55.45,
+    -21.16667
+],
+  "geometry": {"coordinates":[55.45,-21.16667],"type":"Point"}
+}

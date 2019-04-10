@@ -1,0 +1,76 @@
+{
+  "id": 1360316003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.7592,-21.11995,55.7592,-21.11995",
+    "geom:latitude":-21.11995,
+    "geom:longitude":55.7592,
+    "gn:admin1_code":"RE",
+    "gn:admin2_code":"974.0",
+    "gn:admin3_code":"9743.0",
+    "gn:admin4_code":"97419.0",
+    "gn:asciiname":"La Riviere de l'Est",
+    "gn:country_code":"RE",
+    "gn:dem":141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":935311,
+    "gn:latitude":-21.11995,
+    "gn:longitude":55.7592,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"La Rivi\u00e8re de l\u2019Est",
+    "gn:population":0,
+    "gn:timezone":"Indian/Reunion",
+    "iso:country":"RE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "La Rivi\u00e8re de l\u2019Est"
+    ],
+    "name:und_x_variant":[
+        "Rivi\u00e8re de l\u2019Est"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":935311
+    },
+    "wof:country":"RE",
+    "wof:geomhash":"da51a0b52510936931eab7a6b0e45641",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1360316003,
+            "region_id":85671199
+        }
+    ],
+    "wof:id":1360316003,
+    "wof:lastmodified":1537683257,
+    "wof:name":"La Riviere de l'Est",
+    "wof:parent_id":85671199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-re",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.7592,
+    -21.11995,
+    55.7592,
+    -21.11995
+],
+  "geometry": {"coordinates":[55.7592,-21.11995],"type":"Point"}
+}

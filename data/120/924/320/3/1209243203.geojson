@@ -1,0 +1,71 @@
+{
+  "id": 1209243203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.51954,-21.06493,55.51954,-21.06493",
+    "geom:latitude":-21.06493,
+    "geom:longitude":55.51954,
+    "gn:admin1_code":"RE",
+    "gn:admin2_code":"974.0",
+    "gn:admin3_code":"9743.0",
+    "gn:admin4_code":"97421.0",
+    "gn:asciiname":"Hell Bourg",
+    "gn:country_code":"RE",
+    "gn:dem":952,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":935786,
+    "gn:latitude":-21.06493,
+    "gn:longitude":55.51954,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"Hell Bourg",
+    "gn:population":0,
+    "gn:timezone":"Indian/Reunion",
+    "iso:country":"RE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Hell Bourg"
+    ],
+    "name:und_x_variant":[
+        "Hell-Bourg"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85671199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":935786,
+        "wk:page":"Hell-Bourg"
+    },
+    "wof:country":"RE",
+    "wof:geomhash":"286a51c7371bb731443fdd20f43bf23d",
+    "wof:hierarchy":[
+        {
+            "locality_id":1209243203,
+            "region_id":85671199
+        }
+    ],
+    "wof:id":1209243203,
+    "wof:lastmodified":1537683266,
+    "wof:name":"Hell Bourg",
+    "wof:parent_id":85671199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-re",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.51954,
+    -21.06493,
+    55.51954,
+    -21.06493
+],
+  "geometry": {"coordinates":[55.51954,-21.06493],"type":"Point"}
+}

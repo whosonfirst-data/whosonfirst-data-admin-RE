@@ -1,0 +1,73 @@
+{
+  "id": 1293129795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.53086,-20.93857,55.53086,-20.93857",
+    "geom:latitude":-20.93857,
+    "geom:longitude":55.53086,
+    "gn:admin1_code":"RE",
+    "gn:admin2_code":"974.0",
+    "gn:admin3_code":"9741.0",
+    "gn:admin4_code":"97418.0",
+    "gn:asciiname":"Beaumont",
+    "gn:country_code":"RE",
+    "gn:dem":445,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":936135,
+    "gn:latitude":-20.93857,
+    "gn:longitude":55.53086,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"Beaumont",
+    "gn:population":0,
+    "gn:timezone":"Indian/Reunion",
+    "iso:country":"RE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Beaumont"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":936135
+    },
+    "wof:country":"RE",
+    "wof:geomhash":"acb250a9ca375324edc70eb6d30f2839",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1293129795,
+            "region_id":85671199
+        }
+    ],
+    "wof:id":1293129795,
+    "wof:lastmodified":1537683269,
+    "wof:name":"Beaumont",
+    "wof:parent_id":85671199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-re",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.53086,
+    -20.93857,
+    55.53086,
+    -20.93857
+],
+  "geometry": {"coordinates":[55.53086,-20.93857],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1225979301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.26888,-21.03005,55.26888,-21.03005",
+    "geom:latitude":-21.03005,
+    "geom:longitude":55.26888,
+    "gn:admin1_code":"RE",
+    "gn:admin2_code":"974.0",
+    "gn:admin3_code":"9744.0",
+    "gn:admin4_code":"97415.0",
+    "gn:asciiname":"La Renaissance",
+    "gn:country_code":"RE",
+    "gn:dem":259,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":935688,
+    "gn:latitude":-21.03005,
+    "gn:longitude":55.26888,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"La Renaissance",
+    "gn:population":0,
+    "gn:timezone":"Indian/Reunion",
+    "iso:country":"RE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":935688
+    },
+    "wof:country":"RE",
+    "wof:geomhash":"86e3767b467b4849874c244d43c54354",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1225979301,
+            "region_id":85671199
+        }
+    ],
+    "wof:id":1225979301,
+    "wof:lastmodified":1536820018,
+    "wof:name":"La Renaissance",
+    "wof:parent_id":85671199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-re",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.26888,
+    -21.03005,
+    55.26888,
+    -21.03005
+],
+  "geometry": {"coordinates":[55.26888,-21.03005],"type":"Point"}
+}

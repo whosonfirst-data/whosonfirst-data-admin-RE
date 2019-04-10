@@ -1,0 +1,76 @@
+{
+  "id": 1343598287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.35041,-21.24891,55.35041,-21.24891",
+    "geom:latitude":-21.24891,
+    "geom:longitude":55.35041,
+    "gn:admin1_code":"RE",
+    "gn:admin2_code":"974.0",
+    "gn:admin3_code":"9742.0",
+    "gn:admin4_code":"97401.0",
+    "gn:asciiname":"Fond Maurice",
+    "gn:country_code":"RE",
+    "gn:dem":117,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":935643,
+    "gn:latitude":-21.24891,
+    "gn:longitude":55.35041,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"Fond Maurice",
+    "gn:population":0,
+    "gn:timezone":"Indian/Reunion",
+    "iso:country":"RE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Fond Maurice"
+    ],
+    "name:und_x_variant":[
+        "Le Fond de Maurice"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":935643
+    },
+    "wof:country":"RE",
+    "wof:geomhash":"cc456e3d23cf18cd1d560ce8b7c6cfc4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1343598287,
+            "region_id":85671199
+        }
+    ],
+    "wof:id":1343598287,
+    "wof:lastmodified":1537683262,
+    "wof:name":"Fond Maurice",
+    "wof:parent_id":85671199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-re",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.35041,
+    -21.24891,
+    55.35041,
+    -21.24891
+],
+  "geometry": {"coordinates":[55.35041,-21.24891],"type":"Point"}
+}

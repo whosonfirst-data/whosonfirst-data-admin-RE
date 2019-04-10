@@ -1,0 +1,76 @@
+{
+  "id": 1243001623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.51871,-21.33734,55.51871,-21.33734",
+    "geom:latitude":-21.33734,
+    "geom:longitude":55.51871,
+    "gn:admin1_code":"RE",
+    "gn:admin2_code":"974.0",
+    "gn:admin3_code":"9742.0",
+    "gn:admin4_code":"97416.0",
+    "gn:asciiname":"La Ravine des Cafres les Hauts",
+    "gn:country_code":"RE",
+    "gn:dem":145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":935342,
+    "gn:latitude":-21.33734,
+    "gn:longitude":55.51871,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"La Ravine des Cafres les Hauts",
+    "gn:population":0,
+    "gn:timezone":"Indian/Reunion",
+    "iso:country":"RE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "La Ravine des Cafres les Hauts"
+    ],
+    "name:und_x_variant":[
+        "Ravine des Cafres-les Hauts"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":935342
+    },
+    "wof:country":"RE",
+    "wof:geomhash":"306f019be8ab3af69ac10812497cb767",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1243001623,
+            "region_id":85671199
+        }
+    ],
+    "wof:id":1243001623,
+    "wof:lastmodified":1537683258,
+    "wof:name":"La Ravine des Cafres les Hauts",
+    "wof:parent_id":85671199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-re",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.51871,
+    -21.33734,
+    55.51871,
+    -21.33734
+],
+  "geometry": {"coordinates":[55.51871,-21.33734],"type":"Point"}
+}

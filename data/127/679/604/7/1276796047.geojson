@@ -1,0 +1,76 @@
+{
+  "id": 1276796047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.3033,-21.18087,55.3033,-21.18087",
+    "geom:latitude":-21.18087,
+    "geom:longitude":55.3033,
+    "gn:admin1_code":"RE",
+    "gn:admin2_code":"974.0",
+    "gn:admin3_code":"9744.0",
+    "gn:admin4_code":"97413.0",
+    "gn:asciiname":"Le Cap Lelievre",
+    "gn:country_code":"RE",
+    "gn:dem":183,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":935657,
+    "gn:latitude":-21.18087,
+    "gn:longitude":55.3033,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"Le Cap Leli\u00e8vre",
+    "gn:population":0,
+    "gn:timezone":"Indian/Reunion",
+    "iso:country":"RE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Le Cap Leli\u00e8vre"
+    ],
+    "name:und_x_variant":[
+        "Le Cap"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":935657
+    },
+    "wof:country":"RE",
+    "wof:geomhash":"3bb3552bda0127808b5676075008909a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1276796047,
+            "region_id":85671199
+        }
+    ],
+    "wof:id":1276796047,
+    "wof:lastmodified":1537683263,
+    "wof:name":"Le Cap Lelievre",
+    "wof:parent_id":85671199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-re",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.3033,
+    -21.18087,
+    55.3033,
+    -21.18087
+],
+  "geometry": {"coordinates":[55.3033,-21.18087],"type":"Point"}
+}

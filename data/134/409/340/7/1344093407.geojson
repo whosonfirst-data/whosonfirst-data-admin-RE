@@ -1,0 +1,74 @@
+{
+  "id": 1344093407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.49528,-20.89195,55.49528,-20.89195",
+    "geom:latitude":-20.89195,
+    "geom:longitude":55.49528,
+    "gn:admin1_code":"RE",
+    "gn:admin2_code":"974.0",
+    "gn:admin3_code":"9741.0",
+    "gn:admin4_code":"97411.0",
+    "gn:asciiname":"Le Chaudron",
+    "gn:country_code":"RE",
+    "gn:dem":138,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":935654,
+    "gn:latitude":-20.89195,
+    "gn:longitude":55.49528,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"Le Chaudron",
+    "gn:population":0,
+    "gn:timezone":"Indian/Reunion",
+    "iso:country":"RE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chaudron",
+        "Le Chaudron"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":935654
+    },
+    "wof:country":"RE",
+    "wof:geomhash":"76d1d390299ff2aac2094da452c2fc02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1344093407,
+            "region_id":85671199
+        }
+    ],
+    "wof:id":1344093407,
+    "wof:lastmodified":1537683262,
+    "wof:name":"Le Chaudron",
+    "wof:parent_id":85671199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-re",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.49528000000001,
+    -20.89195,
+    55.49528000000001,
+    -20.89195
+],
+  "geometry": {"coordinates":[55.49528000000001,-20.89195],"type":"Point"}
+}

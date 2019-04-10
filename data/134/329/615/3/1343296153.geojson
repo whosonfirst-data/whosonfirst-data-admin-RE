@@ -1,0 +1,76 @@
+{
+  "id": 1343296153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.41226,-21.04165,55.41226,-21.04165",
+    "geom:latitude":-21.04165,
+    "geom:longitude":55.41226,
+    "gn:admin1_code":"RE",
+    "gn:admin2_code":"974.0",
+    "gn:admin3_code":"9744.0",
+    "gn:admin4_code":"97408.0",
+    "gn:asciiname":"Grand-Place",
+    "gn:country_code":"RE",
+    "gn:dem":776,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":935828,
+    "gn:latitude":-21.04165,
+    "gn:longitude":55.41226,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"Grand-Place",
+    "gn:population":0,
+    "gn:timezone":"Indian/Reunion",
+    "iso:country":"RE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Grand-Place"
+    ],
+    "name:und_x_variant":[
+        "Grande Place"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":935828
+    },
+    "wof:country":"RE",
+    "wof:geomhash":"d2f504dae2f1347293811f69680d0ff5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1343296153,
+            "region_id":85671199
+        }
+    ],
+    "wof:id":1343296153,
+    "wof:lastmodified":1537683266,
+    "wof:name":"Grand-Place",
+    "wof:parent_id":85671199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-re",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.41226,
+    -21.04165,
+    55.41226,
+    -21.04165
+],
+  "geometry": {"coordinates":[55.41226,-21.04165],"type":"Point"}
+}

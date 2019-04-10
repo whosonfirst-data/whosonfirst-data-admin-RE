@@ -1,0 +1,71 @@
+{
+  "id": 1277112517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.57292,-21.20366,55.57292,-21.20366",
+    "geom:latitude":-21.20366,
+    "geom:longitude":55.57292,
+    "gn:admin1_code":"RE",
+    "gn:admin2_code":"974.0",
+    "gn:admin3_code":"9742.0",
+    "gn:admin4_code":"97422.0",
+    "gn:asciiname":"Bourg-Murat",
+    "gn:country_code":"RE",
+    "gn:dem":1564,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11101563,
+    "gn:latitude":-21.20366,
+    "gn:longitude":55.57292,
+    "gn:modification_date":"2016-03-14",
+    "gn:name":"Bourg-Murat",
+    "gn:population":0,
+    "gn:timezone":"Indian/Reunion",
+    "iso:country":"RE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11101563,
+        "wk:page":"Bourg-Murat"
+    },
+    "wof:country":"RE",
+    "wof:geomhash":"456582b19a626c26e3916d0a02ea6c74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1277112517,
+            "region_id":85671199
+        }
+    ],
+    "wof:id":1277112517,
+    "wof:lastmodified":1537571963,
+    "wof:name":"Bourg-Murat",
+    "wof:parent_id":85671199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-re",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.57292,
+    -21.20366,
+    55.57292,
+    -21.20366
+],
+  "geometry": {"coordinates":[55.57292,-21.20366],"type":"Point"}
+}

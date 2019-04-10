@@ -1,0 +1,77 @@
+{
+  "id": 1225879417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.49049,-21.29947,55.49049,-21.29947",
+    "geom:latitude":-21.29947,
+    "geom:longitude":55.49049,
+    "gn:admin1_code":"RE",
+    "gn:admin2_code":"974.0",
+    "gn:admin3_code":"9742.0",
+    "gn:admin4_code":"97416.0",
+    "gn:asciiname":"La Ligne des Bambous",
+    "gn:country_code":"RE",
+    "gn:dem":184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":935568,
+    "gn:latitude":-21.29947,
+    "gn:longitude":55.49049,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"La Ligne des Bambous",
+    "gn:population":0,
+    "gn:timezone":"Indian/Reunion",
+    "iso:country":"RE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "La Ligne des Bambous"
+    ],
+    "name:und_x_variant":[
+        "Ligne des Bambous"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":935568,
+        "wk:page":"Ligne_des_Bambous"
+    },
+    "wof:country":"RE",
+    "wof:geomhash":"931b0dc78bac76dd1e3a11797d5e4bfd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1225879417,
+            "region_id":85671199
+        }
+    ],
+    "wof:id":1225879417,
+    "wof:lastmodified":1537683260,
+    "wof:name":"La Ligne des Bambous",
+    "wof:parent_id":85671199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-re",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.49049,
+    -21.29947,
+    55.49049,
+    -21.29947
+],
+  "geometry": {"coordinates":[55.49049,-21.29947],"type":"Point"}
+}

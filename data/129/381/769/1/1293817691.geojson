@@ -1,0 +1,73 @@
+{
+  "id": 1293817691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.53891,-21.25799,55.53891,-21.25799",
+    "geom:latitude":-21.25799,
+    "geom:longitude":55.53891,
+    "gn:admin1_code":"RE",
+    "gn:admin2_code":"974.0",
+    "gn:admin3_code":"9742.0",
+    "gn:admin4_code":"97422.0",
+    "gn:asciiname":"Le Bras Creux",
+    "gn:country_code":"RE",
+    "gn:dem":703,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":935664,
+    "gn:latitude":-21.25799,
+    "gn:longitude":55.53891,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"Le Bras Creux",
+    "gn:population":0,
+    "gn:timezone":"Indian/Reunion",
+    "iso:country":"RE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Le Bras Creux"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":935664
+    },
+    "wof:country":"RE",
+    "wof:geomhash":"3440fbe937964db5481b9e8faab10469",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1293817691,
+            "region_id":85671199
+        }
+    ],
+    "wof:id":1293817691,
+    "wof:lastmodified":1537683263,
+    "wof:name":"Le Bras Creux",
+    "wof:parent_id":85671199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-re",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.53891,
+    -21.25799,
+    55.53891,
+    -21.25799
+],
+  "geometry": {"coordinates":[55.53891,-21.25799],"type":"Point"}
+}

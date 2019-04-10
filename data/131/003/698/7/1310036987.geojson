@@ -1,0 +1,71 @@
+{
+  "id": 1310036987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.22571,-21.05203,55.22571,-21.05203",
+    "geom:latitude":-21.05203,
+    "geom:longitude":55.22571,
+    "gn:admin1_code":"RE",
+    "gn:admin2_code":"974.0",
+    "gn:admin3_code":"9744.0",
+    "gn:admin4_code":"97415.0",
+    "gn:asciiname":"Saint-Gilles les Bains",
+    "gn:country_code":"RE",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":935231,
+    "gn:latitude":-21.05203,
+    "gn:longitude":55.22571,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"Saint-Gilles les Bains",
+    "gn:population":0,
+    "gn:timezone":"Indian/Reunion",
+    "iso:country":"RE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Saint-Gilles les Bains"
+    ],
+    "name:und_x_variant":[
+        "Saint Gilles",
+        "Saint-Gilles-les Bains"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":935231
+    },
+    "wof:country":"RE",
+    "wof:geomhash":"af312086ee1aff5dd314c348173ba0a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1310036987,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1310036987,
+    "wof:lastmodified":1537683256,
+    "wof:name":"Saint-Gilles les Bains",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-re",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.22571,
+    -21.05203,
+    55.22571,
+    -21.05203
+],
+  "geometry": {"coordinates":[55.22571,-21.05203],"type":"Point"}
+}

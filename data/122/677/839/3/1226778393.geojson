@@ -1,0 +1,76 @@
+{
+  "id": 1226778393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.53133,-20.918,55.53133,-20.918",
+    "geom:latitude":-20.918,
+    "geom:longitude":55.53133,
+    "gn:admin1_code":"RE",
+    "gn:admin2_code":"974.0",
+    "gn:admin3_code":"9741.0",
+    "gn:admin4_code":"97418.0",
+    "gn:asciiname":"Bois Rouge",
+    "gn:country_code":"RE",
+    "gn:dem":189,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":936077,
+    "gn:latitude":-20.918,
+    "gn:longitude":55.53133,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"Bois Rouge",
+    "gn:population":0,
+    "gn:timezone":"Indian/Reunion",
+    "iso:country":"RE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Bois Rouge"
+    ],
+    "name:und_x_variant":[
+        "Bois-Rouge"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":936077
+    },
+    "wof:country":"RE",
+    "wof:geomhash":"775b01d0501efa53ca0d5dfce41f9e89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1226778393,
+            "region_id":85671199
+        }
+    ],
+    "wof:id":1226778393,
+    "wof:lastmodified":1537683268,
+    "wof:name":"Bois Rouge",
+    "wof:parent_id":85671199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-re",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.53133,
+    -20.91800000000001,
+    55.53133,
+    -20.91800000000001
+],
+  "geometry": {"coordinates":[55.53133,-20.91800000000001],"type":"Point"}
+}

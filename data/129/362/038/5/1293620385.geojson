@@ -1,0 +1,70 @@
+{
+  "id": 1293620385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.39407,-20.99169,55.39407,-20.99169",
+    "geom:latitude":-20.99169,
+    "geom:longitude":55.39407,
+    "gn:admin1_code":"RE",
+    "gn:admin2_code":"974.0",
+    "gn:admin3_code":"9744.0",
+    "gn:admin4_code":"97408.0",
+    "gn:asciiname":"Ilet Nourry",
+    "gn:country_code":"RE",
+    "gn:dem":906,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":935761,
+    "gn:latitude":-20.99169,
+    "gn:longitude":55.39407,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"\u00celet Nourry",
+    "gn:population":0,
+    "gn:timezone":"Indian/Reunion",
+    "iso:country":"RE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":935761
+    },
+    "wof:country":"RE",
+    "wof:geomhash":"92b8ad4b150dab046ca72e7274476384",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1293620385,
+            "region_id":85671199
+        }
+    ],
+    "wof:id":1293620385,
+    "wof:lastmodified":1537089492,
+    "wof:name":"Ilet Nourry",
+    "wof:parent_id":85671199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-re",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.39406999999999,
+    -20.99169,
+    55.39406999999999,
+    -20.99169
+],
+  "geometry": {"coordinates":[55.39406999999999,-20.99169],"type":"Point"}
+}

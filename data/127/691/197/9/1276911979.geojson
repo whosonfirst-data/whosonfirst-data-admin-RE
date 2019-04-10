@@ -1,0 +1,73 @@
+{
+  "id": 1276911979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.53401,-21.18242,55.53401,-21.18242",
+    "geom:latitude":-21.18242,
+    "geom:longitude":55.53401,
+    "gn:admin1_code":"RE",
+    "gn:admin2_code":"974.0",
+    "gn:admin3_code":"9742.0",
+    "gn:admin4_code":"97422.0",
+    "gn:asciiname":"Grand Bassin",
+    "gn:country_code":"RE",
+    "gn:dem":954,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":935850,
+    "gn:latitude":-21.18242,
+    "gn:longitude":55.53401,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"Grand Bassin",
+    "gn:population":0,
+    "gn:timezone":"Indian/Reunion",
+    "iso:country":"RE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Grand Bassin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":935850
+    },
+    "wof:country":"RE",
+    "wof:geomhash":"d9e52a89e1177e236a513a2f4bfbb0cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1276911979,
+            "region_id":85671199
+        }
+    ],
+    "wof:id":1276911979,
+    "wof:lastmodified":1537683266,
+    "wof:name":"Grand Bassin",
+    "wof:parent_id":85671199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-re",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.53401,
+    -21.18242,
+    55.53401,
+    -21.18242
+],
+  "geometry": {"coordinates":[55.53401,-21.18242],"type":"Point"}
+}

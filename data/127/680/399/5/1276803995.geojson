@@ -1,0 +1,77 @@
+{
+  "id": 1276803995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.74944,-21.08522,55.74944,-21.08522",
+    "geom:latitude":-21.08522,
+    "geom:longitude":55.74944,
+    "gn:admin1_code":"RE",
+    "gn:admin2_code":"974.0",
+    "gn:admin3_code":"9743.0",
+    "gn:admin4_code":"97410.0",
+    "gn:asciiname":"Sainte-Anne",
+    "gn:country_code":"RE",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":935260,
+    "gn:latitude":-21.08522,
+    "gn:longitude":55.74944,
+    "gn:modification_date":"2016-10-24",
+    "gn:name":"Sainte-Anne",
+    "gn:population":0,
+    "gn:timezone":"Indian/Reunion",
+    "iso:country":"RE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Sainte Anne (La Reunion)"
+    ],
+    "name:und_x_variant":[
+        "Village Sainte Anne",
+        "Sainte-Anne"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":935260
+    },
+    "wof:country":"RE",
+    "wof:geomhash":"3c9b33a65f239f6cfe9610bc9f1326be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1276803995,
+            "region_id":85671199
+        }
+    ],
+    "wof:id":1276803995,
+    "wof:lastmodified":1537683257,
+    "wof:name":"Sainte-Anne",
+    "wof:parent_id":85671199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-re",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.74944,
+    -21.08522,
+    55.74944,
+    -21.08522
+],
+  "geometry": {"coordinates":[55.74944,-21.08522],"type":"Point"}
+}

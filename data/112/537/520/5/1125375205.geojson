@@ -1,0 +1,78 @@
+{
+  "id": 1125375205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.58333,-21.25,55.58333,-21.25",
+    "geom:latitude":-21.25,
+    "geom:longitude":55.58333,
+    "gn:gn_country":"RE",
+    "gn:gn_fcode":"ADM3",
+    "gn:gn_pop":282274,
+    "gn:population":282274,
+    "iso:country":"RE",
+    "lbl:latitude":-21.25,
+    "lbl:longitude":55.58333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"RE",
+    "qs_pg:gn_country":"RE",
+    "qs_pg:gn_fcode":"ADM3",
+    "qs_pg:gn_id":935213,
+    "qs_pg:gn_pop":282274,
+    "qs_pg:name":"Arrondissement de Saint-Pierre",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":10,
+    "qs_pg:qs_id":83997,
+    "qs_pg:qs_pg_placetype":"localadmin",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":935213,
+        "qs_pg:id":83997
+    },
+    "wof:country":"RE",
+    "wof:created":1497047680,
+    "wof:geomhash":"b580c3d6d712339c551525b6ba8ae4b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "localadmin_id":1125375205,
+            "region_id":85671199
+        }
+    ],
+    "wof:id":1125375205,
+    "wof:lastmodified":1509389438,
+    "wof:name":"Arrondissement de Saint-Pierre",
+    "wof:parent_id":85671199,
+    "wof:placetype":"localadmin",
+    "wof:population":282274,
+    "wof:population_rank":10,
+    "wof:repo":"whosonfirst-data-admin-re",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.58333,
+    -21.25,
+    55.58333,
+    -21.25
+],
+  "geometry": {"coordinates":[55.58333,-21.25],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1210050233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.40548,-21.20783,55.40548,-21.20783",
+    "geom:latitude":-21.20783,
+    "geom:longitude":55.40548,
+    "gn:admin1_code":"RE",
+    "gn:admin2_code":"974.0",
+    "gn:admin3_code":"9742.0",
+    "gn:admin4_code":"97414.0",
+    "gn:asciiname":"Les Makes",
+    "gn:country_code":"RE",
+    "gn:dem":771,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":935542,
+    "gn:latitude":-21.20783,
+    "gn:longitude":55.40548,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"Les Makes",
+    "gn:population":0,
+    "gn:timezone":"Indian/Reunion",
+    "iso:country":"RE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Les Makes"
+    ],
+    "name:und_x_variant":[
+        "Makes"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":935542
+    },
+    "wof:country":"RE",
+    "wof:geomhash":"c5a6f2af0c98a5aa1c9a554ef4caea36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1210050233,
+            "region_id":85671199
+        }
+    ],
+    "wof:id":1210050233,
+    "wof:lastmodified":1537683260,
+    "wof:name":"Les Makes",
+    "wof:parent_id":85671199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-re",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.40548,
+    -21.20783,
+    55.40548,
+    -21.20783
+],
+  "geometry": {"coordinates":[55.40548,-21.20783],"type":"Point"}
+}

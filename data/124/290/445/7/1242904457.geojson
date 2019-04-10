@@ -1,0 +1,73 @@
+{
+  "id": 1242904457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.28824,-21.17059,55.28824,-21.17059",
+    "geom:latitude":-21.17059,
+    "geom:longitude":55.28824,
+    "gn:admin1_code":"RE",
+    "gn:admin2_code":"974.0",
+    "gn:admin3_code":"9744.0",
+    "gn:admin4_code":"97413.0",
+    "gn:asciiname":"Saint-Leu",
+    "gn:country_code":"RE",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":935225,
+    "gn:latitude":-21.17059,
+    "gn:longitude":55.28824,
+    "gn:modification_date":"2017-09-06",
+    "gn:name":"Saint-Leu",
+    "gn:population":28278,
+    "gn:timezone":"Indian/Reunion",
+    "iso:country":"RE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc0dd\ub8b0"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043d\u043a\u0442-\u041b\u0435\u0443"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":935225
+    },
+    "wof:country":"RE",
+    "wof:geomhash":"6fe974cd3f7d8898b91d35e6c1735d1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1242904457,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1242904457,
+    "wof:lastmodified":1537683256,
+    "wof:name":"Saint-Leu",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":28278,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-re",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.28824,
+    -21.17059,
+    55.28824,
+    -21.17059
+],
+  "geometry": {"coordinates":[55.28824,-21.17059],"type":"Point"}
+}

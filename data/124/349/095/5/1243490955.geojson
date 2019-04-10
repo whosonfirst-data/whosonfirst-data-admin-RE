@@ -1,0 +1,70 @@
+{
+  "id": 1243490955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.31667,-21.08333,55.31667,-21.08333",
+    "geom:latitude":-21.08333,
+    "geom:longitude":55.31667,
+    "gn:admin1_code":"RE",
+    "gn:admin2_code":"974.0",
+    "gn:admin3_code":"9744.0",
+    "gn:admin4_code":"97415.0",
+    "gn:asciiname":"Maison Lelievre",
+    "gn:country_code":"RE",
+    "gn:dem":1004,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":935547,
+    "gn:latitude":-21.08333,
+    "gn:longitude":55.31667,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Maison Leli\u00e8vre",
+    "gn:population":0,
+    "gn:timezone":"Indian/Reunion",
+    "iso:country":"RE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":935547
+    },
+    "wof:country":"RE",
+    "wof:geomhash":"8b675083839eda6f4e7f4359479b8a1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1243490955,
+            "region_id":85671199
+        }
+    ],
+    "wof:id":1243490955,
+    "wof:lastmodified":1536741078,
+    "wof:name":"Maison Lelievre",
+    "wof:parent_id":85671199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-re",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.31667,
+    -21.08333,
+    55.31667,
+    -21.08333
+],
+  "geometry": {"coordinates":[55.31667,-21.08333],"type":"Point"}
+}

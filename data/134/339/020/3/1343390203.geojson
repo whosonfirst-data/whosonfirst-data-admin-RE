@@ -1,0 +1,77 @@
+{
+  "id": 1343390203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.43896,-21.25863,55.43896,-21.25863",
+    "geom:latitude":-21.25863,
+    "geom:longitude":55.43896,
+    "gn:admin1_code":"RE",
+    "gn:admin2_code":"974.0",
+    "gn:admin3_code":"9742.0",
+    "gn:admin4_code":"97414.0",
+    "gn:asciiname":"Le Ruisseau les Hauts",
+    "gn:country_code":"RE",
+    "gn:dem":128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":935610,
+    "gn:latitude":-21.25863,
+    "gn:longitude":55.43896,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"Le Ruisseau les Hauts",
+    "gn:population":0,
+    "gn:timezone":"Indian/Reunion",
+    "iso:country":"RE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Le Ruisseau les Hauts"
+    ],
+    "name:und_x_variant":[
+        "Ruisseau",
+        "Le Ruisseau"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":935610
+    },
+    "wof:country":"RE",
+    "wof:geomhash":"a27d772a77fd8d978c87e28208c31f86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1343390203,
+            "region_id":85671199
+        }
+    ],
+    "wof:id":1343390203,
+    "wof:lastmodified":1537683261,
+    "wof:name":"Le Ruisseau les Hauts",
+    "wof:parent_id":85671199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-re",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.43896,
+    -21.25863,
+    55.43896,
+    -21.25863
+],
+  "geometry": {"coordinates":[55.43896,-21.25863],"type":"Point"}
+}

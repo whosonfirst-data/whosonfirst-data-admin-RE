@@ -1,0 +1,77 @@
+{
+  "id": 1309746205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.461,-21.17216,55.461,-21.17216",
+    "geom:latitude":-21.17216,
+    "geom:longitude":55.461,
+    "gn:admin1_code":"RE",
+    "gn:admin2_code":"974.0",
+    "gn:admin3_code":"9742.0",
+    "gn:admin4_code":"97424.0",
+    "gn:asciiname":"Peter Both",
+    "gn:country_code":"RE",
+    "gn:dem":937,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":935765,
+    "gn:latitude":-21.17216,
+    "gn:longitude":55.461,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"Peter Both",
+    "gn:population":0,
+    "gn:timezone":"Indian/Reunion",
+    "iso:country":"RE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Peter Both"
+    ],
+    "name:und_x_variant":[
+        "Peter-boot",
+        "\u00celet du Peter-Boot"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":935765
+    },
+    "wof:country":"RE",
+    "wof:geomhash":"f50b172308cc8027b0e5b1a24f586505",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1309746205,
+            "region_id":85671199
+        }
+    ],
+    "wof:id":1309746205,
+    "wof:lastmodified":1537683265,
+    "wof:name":"Peter Both",
+    "wof:parent_id":85671199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-re",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.46100000000001,
+    -21.17216,
+    55.46100000000001,
+    -21.17216
+],
+  "geometry": {"coordinates":[55.46100000000001,-21.17216],"type":"Point"}
+}

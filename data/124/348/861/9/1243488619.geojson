@@ -1,0 +1,64 @@
+{
+  "id": 1243488619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.50832,-21.34986,55.50832,-21.34986",
+    "geom:latitude":-21.34986,
+    "geom:longitude":55.50832,
+    "gn:admin1_code":"RE",
+    "gn:admin2_code":"974.0",
+    "gn:admin3_code":"9742.0",
+    "gn:admin4_code":"97416.0",
+    "gn:asciiname":"Ravine des Cafres-les Bas",
+    "gn:country_code":"RE",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":935343,
+    "gn:latitude":-21.34986,
+    "gn:longitude":55.50832,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ravine des Cafres-les Bas",
+    "gn:population":0,
+    "gn:timezone":"Indian/Reunion",
+    "iso:country":"RE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":935343
+    },
+    "wof:country":"RE",
+    "wof:geomhash":"3a4c64fb22172b57f64d194b8c568a28",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1243488619,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1243488619,
+    "wof:lastmodified":1536744424,
+    "wof:name":"Ravine des Cafres-les Bas",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-re",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.50832,
+    -21.34986,
+    55.50832,
+    -21.34986
+],
+  "geometry": {"coordinates":[55.50832,-21.34986],"type":"Point"}
+}

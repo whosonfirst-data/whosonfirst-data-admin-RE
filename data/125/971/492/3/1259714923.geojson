@@ -1,0 +1,70 @@
+{
+  "id": 1259714923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.5722,-21.20701,55.5722,-21.20701",
+    "geom:latitude":-21.20701,
+    "geom:longitude":55.5722,
+    "gn:admin1_code":"RE",
+    "gn:admin2_code":"974.0",
+    "gn:admin3_code":"9742.0",
+    "gn:admin4_code":"97422.0",
+    "gn:asciiname":"Maison de l'Enfance",
+    "gn:country_code":"RE",
+    "gn:dem":1558,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":935551,
+    "gn:latitude":-21.20701,
+    "gn:longitude":55.5722,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Maison de l\u2019Enfance",
+    "gn:population":0,
+    "gn:timezone":"Indian/Reunion",
+    "iso:country":"RE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":935551
+    },
+    "wof:country":"RE",
+    "wof:geomhash":"ae3bfe42d5ff59824af5fdcf33ff4e72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1259714923,
+            "region_id":85671199
+        }
+    ],
+    "wof:id":1259714923,
+    "wof:lastmodified":1537020951,
+    "wof:name":"Maison de l'Enfance",
+    "wof:parent_id":85671199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-re",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.5722,
+    -21.20701,
+    55.5722,
+    -21.20701
+],
+  "geometry": {"coordinates":[55.5722,-21.20701],"type":"Point"}
+}

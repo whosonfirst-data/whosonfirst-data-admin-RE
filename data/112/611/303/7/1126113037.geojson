@@ -1,0 +1,72 @@
+{
+  "id": 1126113037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-05-19",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.45951,-20.89709,55.45951,-20.89709",
+    "geom:latitude":-20.89709,
+    "geom:longitude":55.45951,
+    "gn:gn_country":"RE",
+    "gn:gn_fcode":"HSE",
+    "gn:gn_pop":2,
+    "gn:population":2,
+    "iso:country":"RE",
+    "lbl:latitude":-20.89709,
+    "lbl:longitude":55.45951,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"RE",
+    "qs_pg:gn_country":"RE",
+    "qs_pg:gn_fcode":"HSE",
+    "qs_pg:gn_id":6553461,
+    "qs_pg:gn_pop":2,
+    "qs_pg:name":"Case CADET-SAKE",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":634409,
+    "qs_pg:qs_pg_placetype":"locality_funky",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6553461,
+        "qs_pg:id":634409
+    },
+    "wof:country":"RE",
+    "wof:created":1497470145,
+    "wof:geomhash":"3b67eedf164fe89387a3524c2f7b4513",
+    "wof:hierarchy":[
+        {
+            "country_id":85632351,
+            "locality_id":1126113037
+        }
+    ],
+    "wof:id":1126113037,
+    "wof:lastmodified":1505186803,
+    "wof:name":"Case CADET-SAKE",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":2,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-re",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.45951,
+    -20.89709,
+    55.45951,
+    -20.89709
+],
+  "geometry": {"coordinates":[55.45951,-20.89709],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1243590443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.51352,-21.20739,55.51352,-21.20739",
+    "geom:latitude":-21.20739,
+    "geom:longitude":55.51352,
+    "gn:admin1_code":"RE",
+    "gn:admin2_code":"974.0",
+    "gn:admin3_code":"9742.0",
+    "gn:admin4_code":"97422.0",
+    "gn:asciiname":"Ilet Aurelien Dijoux",
+    "gn:country_code":"RE",
+    "gn:dem":852,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":936170,
+    "gn:latitude":-21.20739,
+    "gn:longitude":55.51352,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"\u00celet Aur\u00e9lien Dijoux",
+    "gn:population":0,
+    "gn:timezone":"Indian/Reunion",
+    "iso:country":"RE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "\u00celet Aur\u00e9lien Dijoux"
+    ],
+    "name:und_x_variant":[
+        "Aur\u00e9lien Dijoux"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":936170
+    },
+    "wof:country":"RE",
+    "wof:geomhash":"cf425a6901548c3a1301c40c939a54a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1243590443,
+            "region_id":85671199
+        }
+    ],
+    "wof:id":1243590443,
+    "wof:lastmodified":1537683270,
+    "wof:name":"Ilet Aurelien Dijoux",
+    "wof:parent_id":85671199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-re",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.51351999999999,
+    -21.20739,
+    55.51351999999999,
+    -21.20739
+],
+  "geometry": {"coordinates":[55.51351999999999,-21.20739],"type":"Point"}
+}

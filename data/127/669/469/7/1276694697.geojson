@@ -1,0 +1,76 @@
+{
+  "id": 1276694697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.27,-21.0502,55.27,-21.0502",
+    "geom:latitude":-21.0502,
+    "geom:longitude":55.27,
+    "gn:admin1_code":"RE",
+    "gn:admin2_code":"974.0",
+    "gn:admin3_code":"9744.0",
+    "gn:admin4_code":"97415.0",
+    "gn:asciiname":"Saint-Gilles les Hauts",
+    "gn:country_code":"RE",
+    "gn:dem":399,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":935230,
+    "gn:latitude":-21.0502,
+    "gn:longitude":55.27,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"Saint-Gilles les Hauts",
+    "gn:population":0,
+    "gn:timezone":"Indian/Reunion",
+    "iso:country":"RE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Saint-Gilles les Hauts"
+    ],
+    "name:und_x_variant":[
+        "Saint-Gilles-les Hauts"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":935230
+    },
+    "wof:country":"RE",
+    "wof:geomhash":"43d605a32d9495514aa678925c42c545",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1276694697,
+            "region_id":85671199
+        }
+    ],
+    "wof:id":1276694697,
+    "wof:lastmodified":1537683256,
+    "wof:name":"Saint-Gilles les Hauts",
+    "wof:parent_id":85671199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-re",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.27,
+    -21.0502,
+    55.27,
+    -21.0502
+],
+  "geometry": {"coordinates":[55.27,-21.0502],"type":"Point"}
+}

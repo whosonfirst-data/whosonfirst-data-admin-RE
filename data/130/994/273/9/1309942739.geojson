@@ -1,0 +1,76 @@
+{
+  "id": 1309942739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.536,-21.03489,55.536,-21.03489",
+    "geom:latitude":-21.03489,
+    "geom:longitude":55.536,
+    "gn:admin1_code":"RE",
+    "gn:admin2_code":"974.0",
+    "gn:admin3_code":"9743.0",
+    "gn:admin4_code":"97421.0",
+    "gn:asciiname":"Le Petit Sable",
+    "gn:country_code":"RE",
+    "gn:dem":1070,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":935408,
+    "gn:latitude":-21.03489,
+    "gn:longitude":55.536,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"Le Petit Sable",
+    "gn:population":0,
+    "gn:timezone":"Indian/Reunion",
+    "iso:country":"RE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Le Petit Sable"
+    ],
+    "name:und_x_variant":[
+        "Petit Sable"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":935408
+    },
+    "wof:country":"RE",
+    "wof:geomhash":"7c848fadb1dce7a7903f7e23f47a573a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1309942739,
+            "region_id":85671199
+        }
+    ],
+    "wof:id":1309942739,
+    "wof:lastmodified":1537683259,
+    "wof:name":"Le Petit Sable",
+    "wof:parent_id":85671199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-re",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.536,
+    -21.03489,
+    55.536,
+    -21.03489
+],
+  "geometry": {"coordinates":[55.536,-21.03489],"type":"Point"}
+}

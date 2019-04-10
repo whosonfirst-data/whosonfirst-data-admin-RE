@@ -1,0 +1,77 @@
+{
+  "id": 1243209203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.57033,-20.91866,55.57033,-20.91866",
+    "geom:latitude":-20.91866,
+    "geom:longitude":55.57033,
+    "gn:admin1_code":"RE",
+    "gn:admin2_code":"974.0",
+    "gn:admin3_code":"9741.0",
+    "gn:admin4_code":"97418.0",
+    "gn:asciiname":"La Ressource Barau",
+    "gn:country_code":"RE",
+    "gn:dem":181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":935687,
+    "gn:latitude":-20.91866,
+    "gn:longitude":55.57033,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"La Ressource Barau",
+    "gn:population":0,
+    "gn:timezone":"Indian/Reunion",
+    "iso:country":"RE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "La Ressource Barau"
+    ],
+    "name:und_x_variant":[
+        "Ressource",
+        "La Ressource"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":935687
+    },
+    "wof:country":"RE",
+    "wof:geomhash":"55b73aa720714e0766341b1f7cfa39be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1243209203,
+            "region_id":85671199
+        }
+    ],
+    "wof:id":1243209203,
+    "wof:lastmodified":1537683264,
+    "wof:name":"La Ressource Barau",
+    "wof:parent_id":85671199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-re",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.57033000000001,
+    -20.91866,
+    55.57033000000001,
+    -20.91866
+],
+  "geometry": {"coordinates":[55.57033000000001,-20.91866],"type":"Point"}
+}

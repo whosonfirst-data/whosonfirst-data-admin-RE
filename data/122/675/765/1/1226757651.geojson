@@ -1,0 +1,70 @@
+{
+  "id": 1226757651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.50767,-20.90381,55.50767,-20.90381",
+    "geom:latitude":-20.90381,
+    "geom:longitude":55.50767,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Gillot",
+    "gn:country_code":"RE",
+    "gn:dem":151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":935862,
+    "gn:latitude":-20.90381,
+    "gn:longitude":55.50767,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"Gillot",
+    "gn:population":0,
+    "gn:timezone":"Indian/Reunion",
+    "iso:country":"RE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Gillot"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":935862
+    },
+    "wof:country":"RE",
+    "wof:geomhash":"a51f217e476aee284b309eab40566a6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1226757651,
+            "region_id":85671199
+        }
+    ],
+    "wof:id":1226757651,
+    "wof:lastmodified":1537683266,
+    "wof:name":"Gillot",
+    "wof:parent_id":85671199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-re",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.50767,
+    -20.90381,
+    55.50767,
+    -20.90381
+],
+  "geometry": {"coordinates":[55.50767,-20.90381],"type":"Point"}
+}

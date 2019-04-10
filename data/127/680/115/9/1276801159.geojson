@@ -1,0 +1,73 @@
+{
+  "id": 1276801159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.2949,-21.01904,55.2949,-21.01904",
+    "geom:latitude":-21.01904,
+    "geom:longitude":55.2949,
+    "gn:admin1_code":"RE",
+    "gn:admin2_code":"974.0",
+    "gn:admin3_code":"9744.0",
+    "gn:admin4_code":"97415.0",
+    "gn:asciiname":"Bellemene",
+    "gn:country_code":"RE",
+    "gn:dem":392,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":936120,
+    "gn:latitude":-21.01904,
+    "gn:longitude":55.2949,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"Bellem\u00e8ne",
+    "gn:population":0,
+    "gn:timezone":"Indian/Reunion",
+    "iso:country":"RE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Bellem\u00e8ne"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":936120
+    },
+    "wof:country":"RE",
+    "wof:geomhash":"d71df1e5f669f42bb9d5ba3acd6df831",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1276801159,
+            "region_id":85671199
+        }
+    ],
+    "wof:id":1276801159,
+    "wof:lastmodified":1537683269,
+    "wof:name":"Bellemene",
+    "wof:parent_id":85671199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-re",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.2949,
+    -21.01904,
+    55.2949,
+    -21.01904
+],
+  "geometry": {"coordinates":[55.2949,-21.01904],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1243098393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.28111,-21.04444,55.28111,-21.04444",
+    "geom:latitude":-21.04444,
+    "geom:longitude":55.28111,
+    "gn:admin1_code":"RE",
+    "gn:admin2_code":"974.0",
+    "gn:admin3_code":"9744.0",
+    "gn:admin4_code":"97415.0",
+    "gn:asciiname":"Bernica-les Bas",
+    "gn:country_code":"RE",
+    "gn:dem":457,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":936099,
+    "gn:latitude":-21.04444,
+    "gn:longitude":55.28111,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bernica-les Bas",
+    "gn:population":0,
+    "gn:timezone":"Indian/Reunion",
+    "iso:country":"RE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bernica",
+        "Bernica-les Bas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":936099
+    },
+    "wof:country":"RE",
+    "wof:geomhash":"43f2ba5aea8004e6dfbb735252453096",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1243098393,
+            "region_id":85671199
+        }
+    ],
+    "wof:id":1243098393,
+    "wof:lastmodified":1537683269,
+    "wof:name":"Bernica-les Bas",
+    "wof:parent_id":85671199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-re",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.28111,
+    -21.04444,
+    55.28111,
+    -21.04444
+],
+  "geometry": {"coordinates":[55.28111,-21.04444],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1209751355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.39168,-20.99381,55.39168,-20.99381",
+    "geom:latitude":-20.99381,
+    "geom:longitude":55.39168,
+    "gn:admin1_code":"RE",
+    "gn:admin2_code":"974.0",
+    "gn:admin3_code":"9744.0",
+    "gn:admin4_code":"97408.0",
+    "gn:asciiname":"Cap Noir",
+    "gn:country_code":"RE",
+    "gn:dem":662,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":936015,
+    "gn:latitude":-20.99381,
+    "gn:longitude":55.39168,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Cap Noir",
+    "gn:population":0,
+    "gn:timezone":"Indian/Reunion",
+    "iso:country":"RE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":936015
+    },
+    "wof:country":"RE",
+    "wof:geomhash":"a08c8ed3759efe8d31078e4226c1776f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1209751355,
+            "region_id":85671199
+        }
+    ],
+    "wof:id":1209751355,
+    "wof:lastmodified":1536392621,
+    "wof:name":"Cap Noir",
+    "wof:parent_id":85671199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-re",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.39168000000001,
+    -20.99381,
+    55.39168000000001,
+    -20.99381
+],
+  "geometry": {"coordinates":[55.39168000000001,-20.99381],"type":"Point"}
+}

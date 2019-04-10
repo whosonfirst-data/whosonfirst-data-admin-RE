@@ -1,0 +1,70 @@
+{
+  "id": 1309940221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.5449,-21.36434,55.5449,-21.36434",
+    "geom:latitude":-21.36434,
+    "geom:longitude":55.5449,
+    "gn:admin1_code":"RE",
+    "gn:admin2_code":"974.0",
+    "gn:admin3_code":"9742.0",
+    "gn:admin4_code":"97405.0",
+    "gn:asciiname":"Le Verger Hemery",
+    "gn:country_code":"RE",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":935132,
+    "gn:latitude":-21.36434,
+    "gn:longitude":55.5449,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"Le Verger H\u00e9mery",
+    "gn:population":0,
+    "gn:timezone":"Indian/Reunion",
+    "iso:country":"RE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Le Verger H\u00e9mery"
+    ],
+    "name:und_x_variant":[
+        "Verger Hemery"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":935132
+    },
+    "wof:country":"RE",
+    "wof:geomhash":"358a435fb4b995ed774808fa937ef4aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1309940221,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1309940221,
+    "wof:lastmodified":1537683255,
+    "wof:name":"Le Verger Hemery",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-re",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.5449,
+    -21.36434,
+    55.5449,
+    -21.36434
+],
+  "geometry": {"coordinates":[55.5449,-21.36434],"type":"Point"}
+}

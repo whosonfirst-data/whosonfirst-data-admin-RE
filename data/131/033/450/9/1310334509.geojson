@@ -1,0 +1,73 @@
+{
+  "id": 1310334509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.50843,-21.02733,55.50843,-21.02733",
+    "geom:latitude":-21.02733,
+    "geom:longitude":55.50843,
+    "gn:admin1_code":"RE",
+    "gn:admin2_code":"974.0",
+    "gn:admin3_code":"9743.0",
+    "gn:admin4_code":"97421.0",
+    "gn:asciiname":"Mare a Vieille Place",
+    "gn:country_code":"RE",
+    "gn:dem":881,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":935520,
+    "gn:latitude":-21.02733,
+    "gn:longitude":55.50843,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"Mare \u00e0 Vieille Place",
+    "gn:population":0,
+    "gn:timezone":"Indian/Reunion",
+    "iso:country":"RE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Mare \u00e0 Vieille Place"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":935520
+    },
+    "wof:country":"RE",
+    "wof:geomhash":"4850827ebcbaa70f1ad7cd93db2404e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1310334509,
+            "region_id":85671199
+        }
+    ],
+    "wof:id":1310334509,
+    "wof:lastmodified":1537683259,
+    "wof:name":"Mare a Vieille Place",
+    "wof:parent_id":85671199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-re",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.50843,
+    -21.02733,
+    55.50843,
+    -21.02733
+],
+  "geometry": {"coordinates":[55.50843,-21.02733],"type":"Point"}
+}

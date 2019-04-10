@@ -1,0 +1,76 @@
+{
+  "id": 1259910337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.53252,-21.02517,55.53252,-21.02517",
+    "geom:latitude":-21.02517,
+    "geom:longitude":55.53252,
+    "gn:admin1_code":"RE",
+    "gn:admin2_code":"974.0",
+    "gn:admin3_code":"9743.0",
+    "gn:admin4_code":"97421.0",
+    "gn:asciiname":"Les Ramiers",
+    "gn:country_code":"RE",
+    "gn:dem":848,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":935612,
+    "gn:latitude":-21.02517,
+    "gn:longitude":55.53252,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"Les Ramiers",
+    "gn:population":0,
+    "gn:timezone":"Indian/Reunion",
+    "iso:country":"RE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Les Ramiers"
+    ],
+    "name:und_x_variant":[
+        "Le Ramier"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":935612
+    },
+    "wof:country":"RE",
+    "wof:geomhash":"e70410e3eeb69a1df2b93b8cd601c326",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1259910337,
+            "region_id":85671199
+        }
+    ],
+    "wof:id":1259910337,
+    "wof:lastmodified":1537683261,
+    "wof:name":"Les Ramiers",
+    "wof:parent_id":85671199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-re",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.53252,
+    -21.02517000000001,
+    55.53252,
+    -21.02517000000001
+],
+  "geometry": {"coordinates":[55.53252,-21.02517000000001],"type":"Point"}
+}

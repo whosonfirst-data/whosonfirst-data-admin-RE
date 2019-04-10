@@ -1,0 +1,67 @@
+{
+  "id": 1209445537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.70153,-21.07083,55.70153,-21.07083",
+    "geom:latitude":-21.07083,
+    "geom:longitude":55.70153,
+    "gn:admin1_code":"RE",
+    "gn:admin2_code":"974.0",
+    "gn:admin3_code":"9743.0",
+    "gn:admin4_code":"97410.0",
+    "gn:asciiname":"Les Jacques",
+    "gn:country_code":"RE",
+    "gn:dem":181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":935597,
+    "gn:latitude":-21.07083,
+    "gn:longitude":55.70153,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"Les Jacques",
+    "gn:population":0,
+    "gn:timezone":"Indian/Reunion",
+    "iso:country":"RE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Les Jacques"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85671199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":935597
+    },
+    "wof:country":"RE",
+    "wof:geomhash":"8bb7606a522f83bfd56e616dad2de570",
+    "wof:hierarchy":[
+        {
+            "locality_id":1209445537,
+            "region_id":85671199
+        }
+    ],
+    "wof:id":1209445537,
+    "wof:lastmodified":1537683261,
+    "wof:name":"Les Jacques",
+    "wof:parent_id":85671199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-re",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.70153000000001,
+    -21.07083,
+    55.70153000000001,
+    -21.07083
+],
+  "geometry": {"coordinates":[55.70153000000001,-21.07083],"type":"Point"}
+}

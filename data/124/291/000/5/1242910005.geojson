@@ -1,0 +1,76 @@
+{
+  "id": 1242910005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.5168,-20.9478,55.5168,-20.9478",
+    "geom:latitude":-20.9478,
+    "geom:longitude":55.5168,
+    "gn:admin1_code":"RE",
+    "gn:admin2_code":"974.0",
+    "gn:admin3_code":"9741.0",
+    "gn:admin4_code":"97418.0",
+    "gn:asciiname":"L'Esperance les Hauts",
+    "gn:country_code":"RE",
+    "gn:dem":741,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":935913,
+    "gn:latitude":-20.9478,
+    "gn:longitude":55.5168,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"L\u2019Esp\u00e9rance les Hauts",
+    "gn:population":0,
+    "gn:timezone":"Indian/Reunion",
+    "iso:country":"RE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "L\u2019Esp\u00e9rance les Hauts"
+    ],
+    "name:und_x_variant":[
+        "Esp\u00e9rance"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":935913
+    },
+    "wof:country":"RE",
+    "wof:geomhash":"e96d73776e3eb4a4f7ae03ea30448e0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1242910005,
+            "region_id":85671199
+        }
+    ],
+    "wof:id":1242910005,
+    "wof:lastmodified":1537683267,
+    "wof:name":"L'Esperance les Hauts",
+    "wof:parent_id":85671199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-re",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.5168,
+    -20.9478,
+    55.5168,
+    -20.9478
+],
+  "geometry": {"coordinates":[55.5168,-20.9478],"type":"Point"}
+}

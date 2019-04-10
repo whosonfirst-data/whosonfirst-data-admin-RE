@@ -1,0 +1,75 @@
+{
+  "id": 1327270981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.38333,-21.25,55.38333,-21.25",
+    "geom:latitude":-21.25,
+    "geom:longitude":55.38333,
+    "gn:admin1_code":"RE",
+    "gn:admin2_code":"974.0",
+    "gn:admin3_code":"9742.0",
+    "gn:admin4_code":"97404.0",
+    "gn:asciiname":"L'Etang-Sale",
+    "gn:cc2":"RE",
+    "gn:country_code":"RE",
+    "gn:dem":304,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":935902,
+    "gn:latitude":-21.25,
+    "gn:longitude":55.38333,
+    "gn:modification_date":"2008-02-28",
+    "gn:name":"L'\u00c9tang-Sal\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Indian/Reunion",
+    "iso:country":"RE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u00c9tan-Sal\u00e9-les-Hauts"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":935902,
+        "wk:page":"L%27%C3%89tang-Sal%C3%A9"
+    },
+    "wof:country":"RE",
+    "wof:geomhash":"45aa33b4439990be4486792b0ca41342",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1327270981,
+            "region_id":85671199
+        }
+    ],
+    "wof:id":1327270981,
+    "wof:lastmodified":1537683267,
+    "wof:name":"L'Etang-Sale",
+    "wof:parent_id":85671199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-re",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.38333000000001,
+    -21.25,
+    55.38333000000001,
+    -21.25
+],
+  "geometry": {"coordinates":[55.38333000000001,-21.25],"type":"Point"}
+}

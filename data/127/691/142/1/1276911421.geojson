@@ -1,0 +1,75 @@
+{
+  "id": 1276911421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.45307,-21.29827,55.45307,-21.29827",
+    "geom:latitude":-21.29827,
+    "geom:longitude":55.45307,
+    "gn:admin1_code":"RE",
+    "gn:admin2_code":"974.0",
+    "gn:admin3_code":"9742.0",
+    "gn:admin4_code":"97416.0",
+    "gn:asciiname":"Bois d'Olives",
+    "gn:country_code":"RE",
+    "gn:dem":92,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":936078,
+    "gn:latitude":-21.29827,
+    "gn:longitude":55.45307,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"Bois d\u2019Olives",
+    "gn:population":0,
+    "gn:timezone":"Indian/Reunion",
+    "iso:country":"RE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Le Bois d\u2019Olive",
+        "Bois d\u2019Olives",
+        "Bois d\u2019Olive"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":936078
+    },
+    "wof:country":"RE",
+    "wof:geomhash":"b32c51da7ed489c4016b76d31adecc41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1276911421,
+            "region_id":85671199
+        }
+    ],
+    "wof:id":1276911421,
+    "wof:lastmodified":1537683269,
+    "wof:name":"Bois d'Olives",
+    "wof:parent_id":85671199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-re",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.45307,
+    -21.29827,
+    55.45307,
+    -21.29827
+],
+  "geometry": {"coordinates":[55.45307,-21.29827],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1343894793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.62707,-20.96185,55.62707,-20.96185",
+    "geom:latitude":-20.96185,
+    "geom:longitude":55.62707,
+    "gn:admin1_code":"RE",
+    "gn:admin2_code":"974.0",
+    "gn:admin3_code":"9743.0",
+    "gn:admin4_code":"97409.0",
+    "gn:asciiname":"Menciol",
+    "gn:country_code":"RE",
+    "gn:dem":178,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":935485,
+    "gn:latitude":-20.96185,
+    "gn:longitude":55.62707,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"Menciol",
+    "gn:population":0,
+    "gn:timezone":"Indian/Reunion",
+    "iso:country":"RE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Menciol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":935485
+    },
+    "wof:country":"RE",
+    "wof:geomhash":"f06923ff1f41581948e2e27f4365930e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1343894793,
+            "region_id":85671199
+        }
+    ],
+    "wof:id":1343894793,
+    "wof:lastmodified":1537683259,
+    "wof:name":"Menciol",
+    "wof:parent_id":85671199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-re",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.62707,
+    -20.96185,
+    55.62707,
+    -20.96185
+],
+  "geometry": {"coordinates":[55.62707,-20.96185],"type":"Point"}
+}

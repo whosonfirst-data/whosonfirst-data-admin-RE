@@ -1,0 +1,77 @@
+{
+  "id": 1310140299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.63774,-20.91452,55.63774,-20.91452",
+    "geom:latitude":-20.91452,
+    "geom:longitude":55.63774,
+    "gn:admin1_code":"RE",
+    "gn:admin2_code":"974.0",
+    "gn:admin3_code":"9743.0",
+    "gn:admin4_code":"97409.0",
+    "gn:asciiname":"Bois Rouge",
+    "gn:country_code":"RE",
+    "gn:dem":93,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":936076,
+    "gn:latitude":-20.91452,
+    "gn:longitude":55.63774,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"Bois Rouge",
+    "gn:population":0,
+    "gn:timezone":"Indian/Reunion",
+    "iso:country":"RE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Bois Rouge"
+    ],
+    "name:und_x_variant":[
+        "Bois Rouqe Usine",
+        "Bois-Rouge"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":936076
+    },
+    "wof:country":"RE",
+    "wof:geomhash":"a34627d1112627f7be2aa0a410aec8ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1310140299,
+            "region_id":85671199
+        }
+    ],
+    "wof:id":1310140299,
+    "wof:lastmodified":1537683268,
+    "wof:name":"Bois Rouge",
+    "wof:parent_id":85671199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-re",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.63774,
+    -20.91452,
+    55.63774,
+    -20.91452
+],
+  "geometry": {"coordinates":[55.63774,-20.91452],"type":"Point"}
+}

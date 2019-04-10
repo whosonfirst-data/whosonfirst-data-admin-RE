@@ -1,0 +1,70 @@
+{
+  "id": 1344192227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.65003,-21.28698,55.65003,-21.28698",
+    "geom:latitude":-21.28698,
+    "geom:longitude":55.65003,
+    "gn:admin1_code":"RE",
+    "gn:admin2_code":"974.0",
+    "gn:admin3_code":"9742.0",
+    "gn:admin4_code":"97412.0",
+    "gn:asciiname":"Cap Blanc",
+    "gn:country_code":"RE",
+    "gn:dem":760,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":936016,
+    "gn:latitude":-21.28698,
+    "gn:longitude":55.65003,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Cap Blanc",
+    "gn:population":0,
+    "gn:timezone":"Indian/Reunion",
+    "iso:country":"RE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":936016
+    },
+    "wof:country":"RE",
+    "wof:geomhash":"7e5920f5dfddebdb4ccb21b26912c128",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1344192227,
+            "region_id":85671199
+        }
+    ],
+    "wof:id":1344192227,
+    "wof:lastmodified":1536685485,
+    "wof:name":"Cap Blanc",
+    "wof:parent_id":85671199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-re",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.65003000000001,
+    -21.28698,
+    55.65003000000001,
+    -21.28698
+],
+  "geometry": {"coordinates":[55.65003000000001,-21.28698],"type":"Point"}
+}

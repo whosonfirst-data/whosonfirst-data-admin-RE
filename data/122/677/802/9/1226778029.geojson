@@ -1,0 +1,74 @@
+{
+  "id": 1226778029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.58054,-20.90333,55.58054,-20.90333",
+    "geom:latitude":-20.90333,
+    "geom:longitude":55.58054,
+    "gn:admin1_code":"RE",
+    "gn:admin2_code":"974.0",
+    "gn:admin3_code":"9741.0",
+    "gn:admin4_code":"97420.0",
+    "gn:asciiname":"Franche Terre",
+    "gn:country_code":"RE",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":935875,
+    "gn:latitude":-20.90333,
+    "gn:longitude":55.58054,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"Franche Terre",
+    "gn:population":0,
+    "gn:timezone":"Indian/Reunion",
+    "iso:country":"RE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Semaines",
+        "Franche Terre"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":935875
+    },
+    "wof:country":"RE",
+    "wof:geomhash":"b810732a9badee73f88de56358463eaf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1226778029,
+            "region_id":85671199
+        }
+    ],
+    "wof:id":1226778029,
+    "wof:lastmodified":1537683267,
+    "wof:name":"Franche Terre",
+    "wof:parent_id":85671199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-re",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.58054,
+    -20.90333,
+    55.58054,
+    -20.90333
+],
+  "geometry": {"coordinates":[55.58054,-20.90333],"type":"Point"}
+}

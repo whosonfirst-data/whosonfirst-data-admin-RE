@@ -1,0 +1,70 @@
+{
+  "id": 1310535805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.23913,-21.09372,55.23913,-21.09372",
+    "geom:latitude":-21.09372,
+    "geom:longitude":55.23913,
+    "gn:admin1_code":"RE",
+    "gn:admin2_code":"974.0",
+    "gn:admin3_code":"9744.0",
+    "gn:admin4_code":"97415.0",
+    "gn:asciiname":"La Saline les Bains",
+    "gn:country_code":"RE",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":935680,
+    "gn:latitude":-21.09372,
+    "gn:longitude":55.23913,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"La Saline les Bains",
+    "gn:population":0,
+    "gn:timezone":"Indian/Reunion",
+    "iso:country":"RE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "La Saline les Bains"
+    ],
+    "name:und_x_variant":[
+        "La Saline-les Bas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":935680
+    },
+    "wof:country":"RE",
+    "wof:geomhash":"ed921761f64dace3abc7f60f1ba3794f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1310535805,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1310535805,
+    "wof:lastmodified":1537683263,
+    "wof:name":"La Saline les Bains",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-re",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.23913,
+    -21.09372,
+    55.23913,
+    -21.09372
+],
+  "geometry": {"coordinates":[55.23913,-21.09372],"type":"Point"}
+}

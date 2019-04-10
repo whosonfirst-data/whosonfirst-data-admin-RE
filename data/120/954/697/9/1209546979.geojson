@@ -1,0 +1,70 @@
+{
+  "id": 1209546979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.6316,-20.9352,55.6316,-20.9352",
+    "geom:latitude":-20.9352,
+    "geom:longitude":55.6316,
+    "gn:admin1_code":"RE",
+    "gn:admin2_code":"974.0",
+    "gn:admin3_code":"9741.0",
+    "gn:admin4_code":"97420.0",
+    "gn:asciiname":"Delices",
+    "gn:country_code":"RE",
+    "gn:dem":73,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":935647,
+    "gn:latitude":-20.9352,
+    "gn:longitude":55.6316,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"D\u00e9lices",
+    "gn:population":0,
+    "gn:timezone":"Indian/Reunion",
+    "iso:country":"RE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "D\u00e9lices"
+    ],
+    "name:und_x_variant":[
+        "Le D\u00e9lice"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85671199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":935647
+    },
+    "wof:country":"RE",
+    "wof:geomhash":"dd32fd6b72b12b22ca1f4a9e6a4a8612",
+    "wof:hierarchy":[
+        {
+            "locality_id":1209546979,
+            "region_id":85671199
+        }
+    ],
+    "wof:id":1209546979,
+    "wof:lastmodified":1537683262,
+    "wof:name":"Delices",
+    "wof:parent_id":85671199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-re",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.6316,
+    -20.9352,
+    55.6316,
+    -20.9352
+],
+  "geometry": {"coordinates":[55.6316,-20.9352],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1360016957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.45469,-21.21454,55.45469,-21.21454",
+    "geom:latitude":-21.21454,
+    "geom:longitude":55.45469,
+    "gn:admin1_code":"RE",
+    "gn:admin2_code":"974.0",
+    "gn:admin3_code":"9742.0",
+    "gn:admin4_code":"97414.0",
+    "gn:asciiname":"Le Petit Serre",
+    "gn:country_code":"RE",
+    "gn:dem":471,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":935405,
+    "gn:latitude":-21.21454,
+    "gn:longitude":55.45469,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"Le Petit Serr\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Indian/Reunion",
+    "iso:country":"RE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Le Petit Serr\u00e9"
+    ],
+    "name:und_x_variant":[
+        "Petit Serr\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":935405
+    },
+    "wof:country":"RE",
+    "wof:geomhash":"3fff6b15b31049cf91b3a26ee01fa0d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1360016957,
+            "region_id":85671199
+        }
+    ],
+    "wof:id":1360016957,
+    "wof:lastmodified":1537683259,
+    "wof:name":"Le Petit Serre",
+    "wof:parent_id":85671199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-re",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.45469,
+    -21.21454,
+    55.45469,
+    -21.21454
+],
+  "geometry": {"coordinates":[55.45469,-21.21454],"type":"Point"}
+}

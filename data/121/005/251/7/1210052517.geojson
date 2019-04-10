@@ -1,0 +1,75 @@
+{
+  "id": 1210052517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.65564,-20.9294,55.65564,-20.9294",
+    "geom:latitude":-20.9294,
+    "geom:longitude":55.65564,
+    "gn:admin1_code":"RE",
+    "gn:admin2_code":"974.0",
+    "gn:admin3_code":"9743.0",
+    "gn:admin4_code":"97409.0",
+    "gn:asciiname":"L'Etang",
+    "gn:country_code":"RE",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":935581,
+    "gn:latitude":-20.9294,
+    "gn:longitude":55.65564,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"L\u2019\u00c9tang",
+    "gn:population":0,
+    "gn:timezone":"Indian/Reunion",
+    "iso:country":"RE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Etang de Saint Andre",
+        "Etang",
+        "L\u2019\u00c9tang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":935581
+    },
+    "wof:country":"RE",
+    "wof:geomhash":"3824341ed31a31e467f3e1c1567e9437",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1210052517,
+            "region_id":85671199
+        }
+    ],
+    "wof:id":1210052517,
+    "wof:lastmodified":1537683260,
+    "wof:name":"L'Etang",
+    "wof:parent_id":85671199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-re",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.65564000000001,
+    -20.9294,
+    55.65564000000001,
+    -20.9294
+],
+  "geometry": {"coordinates":[55.65564000000001,-20.9294],"type":"Point"}
+}

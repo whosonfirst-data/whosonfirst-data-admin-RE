@@ -1,0 +1,73 @@
+{
+  "id": 1226178965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.46191,-21.04392,55.46191,-21.04392",
+    "geom:latitude":-21.04392,
+    "geom:longitude":55.46191,
+    "gn:admin1_code":"RE",
+    "gn:admin2_code":"974.0",
+    "gn:admin3_code":"9743.0",
+    "gn:admin4_code":"97421.0",
+    "gn:asciiname":"Le Belier",
+    "gn:country_code":"RE",
+    "gn:dem":1259,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":935670,
+    "gn:latitude":-21.04392,
+    "gn:longitude":55.46191,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"Le B\u00e9lier",
+    "gn:population":0,
+    "gn:timezone":"Indian/Reunion",
+    "iso:country":"RE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Le B\u00e9lier"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":935670
+    },
+    "wof:country":"RE",
+    "wof:geomhash":"f6042c097242cf0e59af17bf2dc52d0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1226178965,
+            "region_id":85671199
+        }
+    ],
+    "wof:id":1226178965,
+    "wof:lastmodified":1537683263,
+    "wof:name":"Le Belier",
+    "wof:parent_id":85671199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-re",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.46191,
+    -21.04392,
+    55.46191,
+    -21.04392
+],
+  "geometry": {"coordinates":[55.46191,-21.04392],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1326866107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.6926,-20.99303,55.6926,-20.99303",
+    "geom:latitude":-20.99303,
+    "geom:longitude":55.6926,
+    "gn:admin1_code":"RE",
+    "gn:admin2_code":"974.0",
+    "gn:admin3_code":"9743.0",
+    "gn:admin4_code":"97402.0",
+    "gn:asciiname":"Ma Pensee",
+    "gn:country_code":"RE",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":935529,
+    "gn:latitude":-20.99303,
+    "gn:longitude":55.6926,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ma Pens\u00e9e",
+    "gn:population":0,
+    "gn:timezone":"Indian/Reunion",
+    "iso:country":"RE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":935529
+    },
+    "wof:country":"RE",
+    "wof:geomhash":"dea7584a2f34aba5275443d561e555ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1326866107,
+            "region_id":85671199
+        }
+    ],
+    "wof:id":1326866107,
+    "wof:lastmodified":1536999161,
+    "wof:name":"Ma Pensee",
+    "wof:parent_id":85671199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-re",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.6926,
+    -20.99303,
+    55.6926,
+    -20.99303
+],
+  "geometry": {"coordinates":[55.6926,-20.99303],"type":"Point"}
+}

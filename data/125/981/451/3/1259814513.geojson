@@ -1,0 +1,73 @@
+{
+  "id": 1259814513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.46912,-21.27578,55.46912,-21.27578",
+    "geom:latitude":-21.27578,
+    "geom:longitude":55.46912,
+    "gn:admin1_code":"RE",
+    "gn:admin2_code":"974.0",
+    "gn:admin3_code":"9742.0",
+    "gn:admin4_code":"97416.0",
+    "gn:asciiname":"Mahavel",
+    "gn:country_code":"RE",
+    "gn:dem":187,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":935557,
+    "gn:latitude":-21.27578,
+    "gn:longitude":55.46912,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"Mahavel",
+    "gn:population":0,
+    "gn:timezone":"Indian/Reunion",
+    "iso:country":"RE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Mahavel"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":935557
+    },
+    "wof:country":"RE",
+    "wof:geomhash":"bdd8f26acd06e9a31577cea900da0e01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1259814513,
+            "region_id":85671199
+        }
+    ],
+    "wof:id":1259814513,
+    "wof:lastmodified":1537683260,
+    "wof:name":"Mahavel",
+    "wof:parent_id":85671199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-re",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.46912,
+    -21.27578,
+    55.46912,
+    -21.27578
+],
+  "geometry": {"coordinates":[55.46912,-21.27578],"type":"Point"}
+}

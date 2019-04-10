@@ -1,0 +1,76 @@
+{
+  "id": 1243299731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.50511,-21.23397,55.50511,-21.23397",
+    "geom:latitude":-21.23397,
+    "geom:longitude":55.50511,
+    "gn:admin1_code":"RE",
+    "gn:admin2_code":"974.0",
+    "gn:admin3_code":"9742.0",
+    "gn:admin4_code":"97422.0",
+    "gn:asciiname":"Le Pont d'Yves",
+    "gn:country_code":"RE",
+    "gn:dem":837,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":935372,
+    "gn:latitude":-21.23397,
+    "gn:longitude":55.50511,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"Le Pont d\u2019Yves",
+    "gn:population":0,
+    "gn:timezone":"Indian/Reunion",
+    "iso:country":"RE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Le Pont d\u2019Yves"
+    ],
+    "name:und_x_variant":[
+        "Pont Dives"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":935372
+    },
+    "wof:country":"RE",
+    "wof:geomhash":"d97d1c82d2e14fe21380a04dc45f9e7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1243299731,
+            "region_id":85671199
+        }
+    ],
+    "wof:id":1243299731,
+    "wof:lastmodified":1537683258,
+    "wof:name":"Le Pont d'Yves",
+    "wof:parent_id":85671199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-re",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.50511,
+    -21.23397000000001,
+    55.50511,
+    -21.23397000000001
+],
+  "geometry": {"coordinates":[55.50511,-21.23397000000001],"type":"Point"}
+}

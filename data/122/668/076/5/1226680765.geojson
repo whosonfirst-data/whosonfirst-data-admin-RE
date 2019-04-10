@@ -1,0 +1,70 @@
+{
+  "id": 1226680765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.62595,-21.31806,55.62595,-21.31806",
+    "geom:latitude":-21.31806,
+    "geom:longitude":55.62595,
+    "gn:admin1_code":"RE",
+    "gn:admin2_code":"974.0",
+    "gn:admin3_code":"9742.0",
+    "gn:admin4_code":"97412.0",
+    "gn:asciiname":"Ilet a Vidot",
+    "gn:country_code":"RE",
+    "gn:dem":349,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":935771,
+    "gn:latitude":-21.31806,
+    "gn:longitude":55.62595,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"\u00celet \u00e0 Vidot",
+    "gn:population":0,
+    "gn:timezone":"Indian/Reunion",
+    "iso:country":"RE",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191581,
+        85633147,
+        136253037,
+        85671199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":935771
+    },
+    "wof:country":"RE",
+    "wof:geomhash":"91be0c3fdd5d89ffd3aa92a82d24de3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633147,
+            "empire_id":136253037,
+            "locality_id":1226680765,
+            "region_id":85671199
+        }
+    ],
+    "wof:id":1226680765,
+    "wof:lastmodified":1536808700,
+    "wof:name":"Ilet a Vidot",
+    "wof:parent_id":85671199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-re",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.62595,
+    -21.31806,
+    55.62595,
+    -21.31806
+],
+  "geometry": {"coordinates":[55.62595,-21.31806],"type":"Point"}
+}
