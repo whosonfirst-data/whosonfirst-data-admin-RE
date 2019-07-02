@@ -31,9 +31,6 @@
     "name:bam_x_preferred":[
         "Salazie"
     ],
-    "name:baq_x_preferred":[
-        "Salazie"
-    ],
     "name:bar_x_preferred":[
         "Salazie"
     ],
@@ -43,16 +40,19 @@
     "name:cat_x_preferred":[
         "Salazie"
     ],
+    "name:ces_x_preferred":[
+        "Salazie"
+    ],
     "name:cos_x_preferred":[
         "Salazie"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Salazie"
     ],
     "name:dan_x_preferred":[
         "Salazie"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Salazie"
     ],
     "name:eng_x_preferred":[
@@ -64,25 +64,25 @@
     "name:est_x_preferred":[
         "Salazie"
     ],
+    "name:eus_x_preferred":[
+        "Salazie"
+    ],
     "name:fao_x_preferred":[
         "Salazie"
     ],
     "name:fin_x_preferred":[
         "Salazie"
     ],
-    "name:frc_x_preferred":[
+    "name:fra_x_preferred":[
         "Salazie"
     ],
-    "name:fre_x_preferred":[
+    "name:frc_x_preferred":[
         "Salazie"
     ],
     "name:frp_x_preferred":[
         "Salazie"
     ],
     "name:fur_x_preferred":[
-        "Salazie"
-    ],
-    "name:ger_x_preferred":[
         "Salazie"
     ],
     "name:gla_x_preferred":[
@@ -103,9 +103,6 @@
     "name:hun_x_preferred":[
         "Salazie"
     ],
-    "name:ice_x_preferred":[
-        "Salazie"
-    ],
     "name:ido_x_preferred":[
         "Salazie"
     ],
@@ -116,6 +113,9 @@
         "Salazie"
     ],
     "name:ind_x_preferred":[
+        "Salazie"
+    ],
+    "name:isl_x_preferred":[
         "Salazie"
     ],
     "name:ita_x_preferred":[
@@ -151,19 +151,22 @@
     "name:ltz_x_preferred":[
         "Salazie"
     ],
-    "name:may_x_preferred":[
-        "Salazie"
-    ],
     "name:min_x_preferred":[
         "Salazie"
     ],
     "name:mlg_x_preferred":[
         "Salazie"
     ],
+    "name:msa_x_preferred":[
+        "Salazie"
+    ],
     "name:nap_x_preferred":[
         "Salazie"
     ],
     "name:nds_x_preferred":[
+        "Salazie"
+    ],
+    "name:nld_x_preferred":[
         "Salazie"
     ],
     "name:nno_x_preferred":[
@@ -202,7 +205,7 @@
     "name:roh_x_preferred":[
         "Salazie"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Salazie"
     ],
     "name:rus_x_preferred":[
@@ -214,7 +217,7 @@
     "name:sco_x_preferred":[
         "Salazie"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Salazie"
     ],
     "name:spa_x_preferred":[
@@ -254,9 +257,6 @@
         "Salazie"
     ],
     "name:war_x_preferred":[
-        "Salazie"
-    ],
-    "name:wel_x_preferred":[
         "Salazie"
     ],
     "name:wln_x_preferred":[
@@ -307,7 +307,7 @@
         }
     ],
     "wof:id":1125865289,
-    "wof:lastmodified":1531422086,
+    "wof:lastmodified":1561830538,
     "wof:name":"Salazie",
     "wof:parent_id":85671199,
     "wof:placetype":"locality",
