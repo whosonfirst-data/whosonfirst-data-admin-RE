@@ -40,6 +40,9 @@
     "name:cat_x_preferred":[
         "Salazie"
     ],
+    "name:ceb_x_preferred":[
+        "Salazie"
+    ],
     "name:ces_x_preferred":[
         "Salazie"
     ],
@@ -54,6 +57,9 @@
     ],
     "name:deu_x_preferred":[
         "Salazie"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03b1\u03bb\u03b1\u03b6\u03af"
     ],
     "name:eng_x_preferred":[
         "Salazie"
@@ -307,7 +313,7 @@
         }
     ],
     "wof:id":1125865289,
-    "wof:lastmodified":1561830538,
+    "wof:lastmodified":1563288999,
     "wof:name":"Salazie",
     "wof:parent_id":85671199,
     "wof:placetype":"locality",

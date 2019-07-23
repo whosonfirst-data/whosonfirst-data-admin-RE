@@ -40,6 +40,9 @@
     "name:cat_x_preferred":[
         "Saint-Louis"
     ],
+    "name:ceb_x_preferred":[
+        "Saint-Louis"
+    ],
     "name:ces_x_preferred":[
         "Saint-Louis"
     ],
@@ -72,6 +75,9 @@
     ],
     "name:fas_x_preferred":[
         "\u0633\u0646 \u0644\u0648\u06cc\u06cc\u060c \u0631\u0626\u0648\u0646\u06cc\u0648\u0646"
+    ],
+    "name:fas_x_variant":[
+        "\u0633\u0646 \u0644\u0648\u06cc\u06cc"
     ],
     "name:fin_x_preferred":[
         "Saint-Louis"
@@ -169,6 +175,9 @@
     "name:mzn_x_preferred":[
         "\u0633\u0646 \u0644\u0648\u06cc\u06cc\u060c \u0631\u0626\u0648\u0646\u06cc\u0648\u0646"
     ],
+    "name:mzn_x_variant":[
+        "\u0633\u0646 \u0644\u0648\u06cc\u06cc"
+    ],
     "name:nap_x_preferred":[
         "Saint-Louis"
     ],
@@ -256,6 +265,9 @@
     "name:urd_x_preferred":[
         "\u0633\u06cc\u0646\u0679-\u0644\u0648\u0626\u06cc\u0633\u060c \u0631\u0627\u0646\u0648\u06ba"
     ],
+    "name:urd_x_variant":[
+        "\u0633\u06cc\u0646\u0679-\u0644\u0648\u0626\u06cc\u0633"
+    ],
     "name:vec_x_preferred":[
         "Saint-Louis"
     ],
@@ -339,7 +351,7 @@
         }
     ],
     "wof:id":1125952615,
-    "wof:lastmodified":1561830538,
+    "wof:lastmodified":1563288998,
     "wof:name":"Saint-Louis",
     "wof:parent_id":85671199,
     "wof:placetype":"locality",
