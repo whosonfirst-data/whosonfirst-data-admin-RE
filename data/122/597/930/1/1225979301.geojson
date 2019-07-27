@@ -28,6 +28,105 @@
     "iso:country":"RE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ast_x_preferred":[
+        "La Renaissance"
+    ],
+    "name:aze_x_preferred":[
+        "MAR himni"
+    ],
+    "name:bel_x_preferred":[
+        "\u0413\u0456\u043c\u043d \u0426\u044d\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u0430\u0430\u0444\u0440\u044b\u043a\u0430\u043d\u0441\u043a\u0430\u0439 \u0420\u044d\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0456"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b2\u09be \u09b0\u09a8\u09c7\u09b8\u0981\u09b8"
+    ],
+    "name:cat_x_preferred":[
+        "La Renaissance"
+    ],
+    "name:ces_x_preferred":[
+        "Hymna St\u0159edoafrick\u00e9 republiky"
+    ],
+    "name:deu_x_preferred":[
+        "La Renaissance"
+    ],
+    "name:ell_x_preferred":[
+        "La Renaissance"
+    ],
+    "name:fin_x_preferred":[
+        "La Renaissance"
+    ],
+    "name:fra_x_preferred":[
+        "La Renaissance"
+    ],
+    "name:gle_x_preferred":[
+        "La Renaissance"
+    ],
+    "name:glg_x_preferred":[
+        "La Renaissance"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d4\u05de\u05e0\u05d5\u05df \u05d4\u05e8\u05e4\u05d5\u05d1\u05dc\u05d9\u05e7\u05d4 \u05d4\u05de\u05e8\u05db\u05d6-\u05d0\u05e4\u05e8\u05d9\u05e7\u05d0\u05d9\u05ea"
+    ],
+    "name:ind_x_preferred":[
+        "La Renaissance"
+    ],
+    "name:ita_x_preferred":[
+        "La Renaissance"
+    ],
+    "name:jav_x_preferred":[
+        "La Renaissance"
+    ],
+    "name:jpn_x_preferred":[
+        "\u518d\u751f"
+    ],
+    "name:kor_x_preferred":[
+        "\uc911\uc559\uc544\ud504\ub9ac\uce74 \uacf5\ud654\uad6d\uc758 \uad6d\uac00"
+    ],
+    "name:lit_x_preferred":[
+        "Centrin\u0117s Afrikos Respublikos himnas"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041f\u0440\u0435\u0440\u043e\u0434\u0431\u0430"
+    ],
+    "name:msa_x_preferred":[
+        "La Renaissance"
+    ],
+    "name:nld_x_preferred":[
+        "La Renaissance"
+    ],
+    "name:pol_x_preferred":[
+        "Hymn Republiki \u015arodkowoafryka\u0144skiej"
+    ],
+    "name:por_x_preferred":[
+        "La Renaissance"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0438\u043c\u043d \u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u043e\u0430\u0444\u0440\u0438\u043a\u0430\u043d\u0441\u043a\u043e\u0439 \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0438"
+    ],
+    "name:sag_x_preferred":[
+        "E Z\u00eengo"
+    ],
+    "name:spa_x_preferred":[
+        "La Renaissance"
+    ],
+    "name:srp_x_preferred":[
+        "\u0425\u0438\u043c\u043d\u0430 \u0426\u0435\u043d\u0442\u0440\u0430\u043b\u043d\u043e\u0430\u0444\u0440\u0438\u0447\u043a\u0435 \u0420\u0435\u043f\u0443\u0431\u043b\u0438\u043a\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "La Renaissance"
+    ],
+    "name:tur_x_preferred":[
+        "La Renaissance"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0456\u043c\u043d \u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u043e\u0430\u0444\u0440\u0438\u043a\u0430\u043d\u0441\u044c\u043a\u043e\u0457 \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0438"
+    ],
+    "name:yor_x_preferred":[
+        "La Renaissance"
+    ],
+    "name:zho_x_preferred":[
+        "\u590d\u5174\u6b4c"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -51,7 +150,7 @@
         }
     ],
     "wof:id":1225979301,
-    "wof:lastmodified":1536820018,
+    "wof:lastmodified":1564228602,
     "wof:name":"La Renaissance",
     "wof:parent_id":85671199,
     "wof:placetype":"locality",

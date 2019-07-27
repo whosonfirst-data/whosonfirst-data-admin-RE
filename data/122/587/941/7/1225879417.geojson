@@ -31,6 +31,9 @@
     "name:fra_x_preferred":[
         "La Ligne des Bambous"
     ],
+    "name:fra_x_variant":[
+        "Ligne des Bambous"
+    ],
     "name:und_x_variant":[
         "Ligne des Bambous"
     ],
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":1225879417,
-    "wof:lastmodified":1537683260,
+    "wof:lastmodified":1564228601,
     "wof:name":"La Ligne des Bambous",
     "wof:parent_id":85671199,
     "wof:placetype":"locality",

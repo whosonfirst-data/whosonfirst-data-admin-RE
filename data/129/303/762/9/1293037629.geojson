@@ -28,7 +28,46 @@
     "iso:country":"RE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bre_x_preferred":[
+        "La Plaine-des-Palmistes"
+    ],
+    "name:cat_x_preferred":[
+        "La Plaine-des-Palmistes"
+    ],
+    "name:ceb_x_preferred":[
+        "La Plaine-des-Palmistes"
+    ],
+    "name:deu_x_preferred":[
+        "La Plaine-des-Palmistes"
+    ],
+    "name:epo_x_preferred":[
+        "La Plaine-des-Palmistes"
+    ],
     "name:fra_x_preferred":[
+        "La Plaine-des-Palmistes"
+    ],
+    "name:ita_x_preferred":[
+        "La Plaine-des-Palmistes"
+    ],
+    "name:msa_x_preferred":[
+        "La Plaine-des-Palmistes"
+    ],
+    "name:nld_x_preferred":[
+        "La Plaine-des-Palmistes"
+    ],
+    "name:nor_x_preferred":[
+        "La Plaine-des-Palmistes"
+    ],
+    "name:oci_x_preferred":[
+        "La Plaine-des-Palmistes"
+    ],
+    "name:pol_x_preferred":[
+        "La Plaine-des-Palmistes"
+    ],
+    "name:slk_x_preferred":[
+        "La Plaine-des-Palmistes"
+    ],
+    "name:spa_x_preferred":[
         "La Plaine-des-Palmistes"
     ],
     "name:ukr_x_preferred":[
@@ -40,6 +79,12 @@
     ],
     "name:urd_x_preferred":[
         "\u0644\u0627 \u067e\u0644\u0627\u06cc\u0646\u06cc-\u0688\u06cc\u0633-\u067e\u0627\u0644\u0645\u06cc\u0633\u0679\u06cc\u0633"
+    ],
+    "name:vie_x_preferred":[
+        "La Plaine-des-Palmistes"
+    ],
+    "name:war_x_preferred":[
+        "La Plaine-des-Palmistes"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -65,7 +110,7 @@
         }
     ],
     "wof:id":1293037629,
-    "wof:lastmodified":1537683264,
+    "wof:lastmodified":1564228564,
     "wof:name":"La Plaine-des-Palmistes",
     "wof:parent_id":85671199,
     "wof:placetype":"locality",

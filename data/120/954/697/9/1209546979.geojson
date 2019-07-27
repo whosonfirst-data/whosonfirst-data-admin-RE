@@ -31,8 +31,14 @@
     "name:fra_x_preferred":[
         "D\u00e9lices"
     ],
+    "name:ron_x_preferred":[
+        "Delices"
+    ],
     "name:und_x_variant":[
         "Le D\u00e9lice"
+    ],
+    "name:zho_x_preferred":[
+        "\u5fb7\u5229\u65af"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1209546979,
-    "wof:lastmodified":1537683262,
+    "wof:lastmodified":1564228572,
     "wof:name":"Delices",
     "wof:parent_id":85671199,
     "wof:placetype":"locality",

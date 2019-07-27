@@ -25,6 +25,36 @@
     "iso:country":"RE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Cascades"
+    ],
+    "name:deu_x_preferred":[
+        "Cascades"
+    ],
+    "name:fra_x_preferred":[
+        "Cascades"
+    ],
+    "name:glg_x_preferred":[
+        "Cascades"
+    ],
+    "name:ita_x_preferred":[
+        "Cascades"
+    ],
+    "name:nld_x_preferred":[
+        "Cascades"
+    ],
+    "name:nor_x_preferred":[
+        "Cascades"
+    ],
+    "name:pol_x_preferred":[
+        "Cascades"
+    ],
+    "name:slk_x_preferred":[
+        "Cascades"
+    ],
+    "name:swe_x_preferred":[
+        "Cascades"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -48,7 +78,7 @@
         }
     ],
     "wof:id":1344075311,
-    "wof:lastmodified":1536853048,
+    "wof:lastmodified":1564228556,
     "wof:name":"Cascades",
     "wof:parent_id":85671199,
     "wof:placetype":"locality",

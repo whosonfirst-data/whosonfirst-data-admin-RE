@@ -28,8 +28,23 @@
     "iso:country":"RE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Hell-Bourg"
+    ],
     "name:fra_x_preferred":[
         "Hell Bourg"
+    ],
+    "name:fra_x_variant":[
+        "Hell-Bourg"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a8\u30eb\u30d6\u30fc\u30eb"
+    ],
+    "name:oci_x_preferred":[
+        "Hell-Bourg"
+    ],
+    "name:spa_x_preferred":[
+        "Hell-Bourg"
     ],
     "name:und_x_variant":[
         "Hell-Bourg"
@@ -52,7 +67,7 @@
         }
     ],
     "wof:id":1209243203,
-    "wof:lastmodified":1537683266,
+    "wof:lastmodified":1564228574,
     "wof:name":"Hell Bourg",
     "wof:parent_id":85671199,
     "wof:placetype":"locality",

@@ -19,20 +19,74 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Saint-Beno\u00eet"
+    ],
+    "name:ceb_x_preferred":[
+        "Saint-Beno\u00eet"
+    ],
+    "name:deu_x_preferred":[
+        "Saint-Beno\u00eet"
+    ],
     "name:fas_x_preferred":[
         "\u0633\u0646 \u0628\u0646\u0648\u0622\u060c \u0631\u0626\u0648\u0646\u06cc\u0648\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Saint-Beno\u00eet"
     ],
     "name:heb_x_preferred":[
         "\u05e1\u05df-\u05d1\u05e0\u05d5\u05d0\u05d4"
     ],
+    "name:hun_x_preferred":[
+        "Saint-Beno\u00eet"
+    ],
+    "name:ita_x_preferred":[
+        "Saint-Beno\u00eet"
+    ],
+    "name:kor_x_preferred":[
+        "\uc0dd\ube0c\ub204\uc544"
+    ],
     "name:mzn_x_preferred":[
         "\u0633\u0646 \u0628\u0646\u0648\u0622\u060c \u0631\u0626\u0648\u0646\u06cc\u0648\u0646"
+    ],
+    "name:nds_x_preferred":[
+        "Saint-Beno\u00eet"
+    ],
+    "name:nld_x_preferred":[
+        "Saint-Beno\u00eet"
+    ],
+    "name:nor_x_preferred":[
+        "Saint-Beno\u00eet"
+    ],
+    "name:pms_x_preferred":[
+        "Saint-Beno\u00eet"
+    ],
+    "name:pol_x_preferred":[
+        "Saint-Beno\u00eet"
+    ],
+    "name:por_x_preferred":[
+        "Saint-Beno\u00eet"
+    ],
+    "name:ron_x_preferred":[
+        "Saint-Beno\u00eet"
     ],
     "name:rus_x_preferred":[
         "\u0421\u0435\u043d-\u0411\u0435\u043d\u0443\u0430"
     ],
+    "name:slk_x_preferred":[
+        "Saint-Beno\u00eet"
+    ],
+    "name:spa_x_preferred":[
+        "Saint-Beno\u00eet"
+    ],
+    "name:sqi_x_preferred":[
+        "Saint-Beno\u00eet"
+    ],
     "name:srp_x_preferred":[
         "\u0421\u0435\u043d \u0411\u0435\u043d\u043e\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Saint-Beno\u00eet"
     ],
     "name:ukr_x_preferred":[
         "\u0421\u0435\u043d-\u0411\u0435\u043d\u0443\u0430"
@@ -78,7 +132,7 @@
         }
     ],
     "wof:id":1125404517,
-    "wof:lastmodified":1509390130,
+    "wof:lastmodified":1564228589,
     "wof:name":"Saint-Beno\u00eet",
     "wof:parent_id":85671199,
     "wof:placetype":"localadmin",
