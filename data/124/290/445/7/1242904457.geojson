@@ -28,11 +28,32 @@
     "iso:country":"RE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bre_x_preferred":[
+        "Saint-Leu"
+    ],
+    "name:ceb_x_preferred":[
+        "Saint-Leu"
+    ],
+    "name:deu_x_preferred":[
+        "Saint-Leu"
+    ],
+    "name:fra_x_preferred":[
+        "Saint-Leu"
+    ],
+    "name:ita_x_preferred":[
+        "Saint-Leu"
+    ],
     "name:kor_x_preferred":[
         "\uc0dd\ub8b0"
     ],
     "name:rus_x_preferred":[
         "\u0421\u0430\u043d\u043a\u0442-\u041b\u0435\u0443"
+    ],
+    "name:spa_x_preferred":[
+        "Saint-Leu"
+    ],
+    "name:swe_x_preferred":[
+        "Saint-Leu"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -52,7 +73,7 @@
         }
     ],
     "wof:id":1242904457,
-    "wof:lastmodified":1537683256,
+    "wof:lastmodified":1564228595,
     "wof:name":"Saint-Leu",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

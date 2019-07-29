@@ -31,6 +31,9 @@
     "name:fra_x_preferred":[
         "Jacques Payet"
     ],
+    "name:rus_x_preferred":[
+        "\u041f\u0430\u0439\u0435"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1343889247,
-    "wof:lastmodified":1537683265,
+    "wof:lastmodified":1564228559,
     "wof:name":"Jacques Payet",
     "wof:parent_id":85671199,
     "wof:placetype":"locality",

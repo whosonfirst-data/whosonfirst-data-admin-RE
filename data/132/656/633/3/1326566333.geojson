@@ -28,8 +28,20 @@
     "iso:country":"RE",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Jean Petit"
+    ],
+    "name:deu_x_preferred":[
+        "Jean Petit"
+    ],
     "name:fra_x_preferred":[
         "Jean Petit"
+    ],
+    "name:hun_x_preferred":[
+        "Jean Petit"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b8\u30e3\u30f3\u30fb\u30d7\u30c1"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +66,7 @@
         }
     ],
     "wof:id":1326566333,
-    "wof:lastmodified":1537683265,
+    "wof:lastmodified":1564228549,
     "wof:name":"Jean Petit",
     "wof:parent_id":85671199,
     "wof:placetype":"locality",

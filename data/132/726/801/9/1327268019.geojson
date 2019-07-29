@@ -31,6 +31,9 @@
     "name:fra_x_preferred":[
         "Maison Rouge"
     ],
+    "name:fra_x_variant":[
+        "Maison rouge"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191581,
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1327268019,
-    "wof:lastmodified":1537683260,
+    "wof:lastmodified":1564228553,
     "wof:name":"Maison Rouge",
     "wof:parent_id":85671199,
     "wof:placetype":"locality",
