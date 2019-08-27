@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Indian/Reunion",
     "iso:country":"RE",
+    "lbl:bbox":"55.64569,-20.98587,55.68569,-20.94587",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Ravine Creuse"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1326464115,
-    "wof:lastmodified":1537683258,
+    "wof:lastmodified":1566609720,
     "wof:name":"Ravine Creuse",
     "wof:parent_id":85671199,
     "wof:placetype":"locality",

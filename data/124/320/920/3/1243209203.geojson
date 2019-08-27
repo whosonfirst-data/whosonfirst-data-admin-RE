@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Indian/Reunion",
     "iso:country":"RE",
+    "lbl:bbox":"55.55033,-20.93866,55.59033,-20.89866",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "La Ressource Barau"
     ],
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1243209203,
-    "wof:lastmodified":1537683264,
+    "wof:lastmodified":1566609745,
     "wof:name":"La Ressource Barau",
     "wof:parent_id":85671199,
     "wof:placetype":"locality",

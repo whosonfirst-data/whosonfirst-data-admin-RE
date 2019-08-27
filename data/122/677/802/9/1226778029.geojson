@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Indian/Reunion",
     "iso:country":"RE",
+    "lbl:bbox":"55.56054,-20.92333,55.60054,-20.88333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Semaines",
         "Franche Terre"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1226778029,
-    "wof:lastmodified":1537683267,
+    "wof:lastmodified":1566609749,
     "wof:name":"Franche Terre",
     "wof:parent_id":85671199,
     "wof:placetype":"locality",

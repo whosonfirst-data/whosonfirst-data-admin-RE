@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Indian/Reunion",
     "iso:country":"RE",
+    "lbl:bbox":"55.49871,-21.35734,55.53871,-21.31734",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "La Ravine des Cafres les Hauts"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1243001623,
-    "wof:lastmodified":1537683258,
+    "wof:lastmodified":1566609741,
     "wof:name":"La Ravine des Cafres les Hauts",
     "wof:parent_id":85671199,
     "wof:placetype":"locality",

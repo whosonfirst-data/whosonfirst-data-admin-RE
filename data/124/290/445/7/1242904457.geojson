@@ -26,8 +26,12 @@
     "gn:population":28278,
     "gn:timezone":"Indian/Reunion",
     "iso:country":"RE",
+    "lbl:bbox":"55.26824,-21.19059,55.30824,-21.15059",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:bre_x_preferred":[
         "Saint-Leu"
     ],
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":1242904457,
-    "wof:lastmodified":1564228595,
+    "wof:lastmodified":1566609745,
     "wof:name":"Saint-Leu",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
