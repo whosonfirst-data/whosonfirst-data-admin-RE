@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Indian/Reunion",
     "iso:country":"RE",
+    "lbl:bbox":"55.43469,-21.23454,55.47469,-21.19454",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Le Petit Serr\u00e9"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1360016957,
-    "wof:lastmodified":1537683259,
+    "wof:lastmodified":1566609739,
     "wof:name":"Le Petit Serre",
     "wof:parent_id":85671199,
     "wof:placetype":"locality",

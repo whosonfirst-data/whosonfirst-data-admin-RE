@@ -26,14 +26,17 @@
     "gn:population":0,
     "gn:timezone":"Indian/Reunion",
     "iso:country":"RE",
+    "lbl:bbox":"55.40267,-20.90877,55.44267,-20.86877",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "La Montagne"
     ],
     "name:und_x_variant":[
-        "Montagne",
-        "La Montagne"
+        "Montagne"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":1360221567,
-    "wof:lastmodified":1564228584,
+    "wof:lastmodified":1566609739,
     "wof:name":"La Montagne",
     "wof:parent_id":85671199,
     "wof:placetype":"locality",

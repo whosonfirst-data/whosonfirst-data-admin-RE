@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Indian/Reunion",
     "iso:country":"RE",
+    "lbl:bbox":"55.58681,-21.33627,55.62681,-21.29627",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85671199
@@ -37,7 +41,7 @@
         "gn:id":935611
     },
     "wof:country":"RE",
-    "wof:geomhash":"2192685fa5a3c86199cc799f5ee6a39f",
+    "wof:geomhash":"0e1d970c273f9dc05d8a0e1aae13533f",
     "wof:hierarchy":[
         {
             "locality_id":1209345643,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1209345643,
-    "wof:lastmodified":1536289922,
+    "wof:lastmodified":1566609733,
     "wof:name":"Le Rond",
     "wof:parent_id":85671199,
     "wof:placetype":"locality",
@@ -56,9 +60,9 @@
 },
   "bbox": [
     55.60681,
-    -21.316270000000006,
+    -21.31627000000001,
     55.60681,
-    -21.316270000000006
+    -21.31627000000001
 ],
   "geometry": {"coordinates":[55.60681,-21.31627000000001],"type":"Point"}
 }

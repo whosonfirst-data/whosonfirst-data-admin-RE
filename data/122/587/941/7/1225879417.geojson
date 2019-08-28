@@ -26,15 +26,16 @@
     "gn:population":0,
     "gn:timezone":"Indian/Reunion",
     "iso:country":"RE",
+    "lbl:bbox":"55.47049,-21.31947,55.51049,-21.27947",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "La Ligne des Bambous"
     ],
     "name:fra_x_variant":[
-        "Ligne des Bambous"
-    ],
-    "name:und_x_variant":[
         "Ligne des Bambous"
     ],
     "src:geom":"geonames",
@@ -61,7 +62,7 @@
         }
     ],
     "wof:id":1225879417,
-    "wof:lastmodified":1564228601,
+    "wof:lastmodified":1566609748,
     "wof:name":"La Ligne des Bambous",
     "wof:parent_id":85671199,
     "wof:placetype":"locality",

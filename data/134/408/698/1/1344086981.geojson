@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Indian/Reunion",
     "iso:country":"RE",
+    "lbl:bbox":"55.67628,-21.02115,55.71628,-20.98115",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "La Rivi\u00e8re des Roches"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1344086981,
-    "wof:lastmodified":1537683263,
+    "wof:lastmodified":1566609722,
     "wof:name":"La Riviere des Roches",
     "wof:parent_id":85671199,
     "wof:placetype":"locality",

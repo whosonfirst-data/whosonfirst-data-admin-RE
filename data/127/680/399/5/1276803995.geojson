@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Indian/Reunion",
     "iso:country":"RE",
+    "lbl:bbox":"55.72944,-21.10522,55.76944,-21.06522",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Sainte-Anne"
     ],
@@ -83,8 +87,7 @@
         "\u0421\u0435\u043d\u0442-\u0410\u043d\u043d"
     ],
     "name:und_x_variant":[
-        "Village Sainte Anne",
-        "Sainte-Anne"
+        "Village Sainte Anne"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -109,7 +112,7 @@
         }
     ],
     "wof:id":1276803995,
-    "wof:lastmodified":1564228567,
+    "wof:lastmodified":1566609728,
     "wof:name":"Sainte-Anne",
     "wof:parent_id":85671199,
     "wof:placetype":"locality",

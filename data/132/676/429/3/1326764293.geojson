@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Indian/Reunion",
     "iso:country":"RE",
+    "lbl:bbox":"55.48976,-20.93339,55.52976,-20.89339",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Rivi\u00e8re des Pluies",
         "La Rivi\u00e8re des Pluies"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1326764293,
-    "wof:lastmodified":1537683264,
+    "wof:lastmodified":1566609720,
     "wof:name":"Riviere des Pluies",
     "wof:parent_id":85671199,
     "wof:placetype":"locality",
