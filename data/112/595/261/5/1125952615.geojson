@@ -334,7 +334,9 @@
         85671199
     ],
     "wof:breaches":[],
-    "wof:capital_of":85671199,
+    "wof:capital_of":[
+        85671199
+    ],
     "wof:concordances":{
         "gn:id":935223,
         "gp:id":1410237,
@@ -354,7 +356,7 @@
         }
     ],
     "wof:id":1125952615,
-    "wof:lastmodified":1566609740,
+    "wof:lastmodified":1607390880,
     "wof:name":"Saint-Louis",
     "wof:parent_id":85671199,
     "wof:placetype":"locality",
