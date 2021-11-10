@@ -37,6 +37,9 @@
     "name:bar_x_preferred":[
         "Saint-Louis"
     ],
+    "name:ben_x_preferred":[
+        "\u09b8\u09c7\u09a8\u09cd\u099f-\u09b2\u09c1\u0987\u09b8"
+    ],
     "name:bre_x_preferred":[
         "Saint-Louis"
     ],
@@ -356,7 +359,7 @@
         }
     ],
     "wof:id":1125952615,
-    "wof:lastmodified":1607390880,
+    "wof:lastmodified":1636503227,
     "wof:name":"Saint-Louis",
     "wof:parent_id":85671199,
     "wof:placetype":"locality",
